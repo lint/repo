@@ -1,0 +1,15 @@
+Package: com.lint.tabtracker
+Version: 1.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.tabtracker_1.0_iphoneos-arm.deb
+Size: 4334
+Installed-Size: 168
+MD5sum: 27a33692bb82de31d069f07336ebe429
+Description: Logs number of tabs opened in Safari.
+Name: TabTracker
+Author: lint
+Depiction: depictions/com.lint.tabtracker.html
+
