@@ -11,4 +11,4 @@ MD5sum: 27a33692bb82de31d069f07336ebe429
 Description: Logs number of tabs opened in Safari.
 Name: TabTracker
 Author: lint
-Depiction: depictions/com.lint.tabtracker.html
+Depiction: depictions/test.html
