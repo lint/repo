@@ -4,13 +4,16 @@ Section: Tweaks
 Maintainer: lint
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.lint.tabtracker_1.0_iphoneos-arm.deb
+Filename: debs/test/com.lint.tabtracker_1.0_iphoneos-arm.deb
 Size: 4334
 Installed-Size: 168
 MD5sum: 27a33692bb82de31d069f07336ebe429
+SHA1: 4e431a4812b5568394bff2f1c89efd31301fd6bc
+SHA256: 71cdbbaa38f6c0e75f048900e8b9bf937aaf787105c87d6328cfdf74dd986eb0
 Description: Logs number of tabs opened in Safari.
 Name: TabTracker
 Author: lint
+Depiction: https://DGh0st.github.io/debs/?p=com.lint.tabtracker
 
 Package: com.lint.transparentwallpaperbuttons
 Version: 0.0.1
@@ -22,7 +25,10 @@ Filename: debs/com.lint.transparentwallpaperbuttons_0.0.1_iphoneos-arm.deb
 Size: 2576
 Installed-Size: 120
 MD5sum: 3a4bf49754ddf71b11088de12966506a
+SHA1: 54099b73fddfb879ca8080ba431cad1f25f49c86
+SHA256: 02c12a7222183ec179135ce8c45a837fdd1d06a99928b4bddfd451c59a4f57f5
 Description: Makes wallpaper buttons transparent in photos app.
 Name: TransparentWallpaperButtons
 Author: lint
+Depiction: https://DGh0st.github.io/debs/?p=com.lint.transparentwallpaperbuttons
 
