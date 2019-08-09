@@ -175,7 +175,7 @@ FILE:
 	
 	$tv{'Filename'}= "$pathprefix$fn";
 
-	$tv{'Depiction'} = "https://DGh0st.github.io/$binarydir/?p=$p";
+	$tv{'Depiction'} = "https://lint.github.io/$binarydir/?p=$p";
 	
 	my @checksums = (
 		{

@@ -13,7 +13,7 @@ SHA256: 71cdbbaa38f6c0e75f048900e8b9bf937aaf787105c87d6328cfdf74dd986eb0
 Description: Logs number of tabs opened in Safari.
 Name: TabTracker
 Author: lint
-Depiction: https://DGh0st.github.io/debs/?p=com.lint.tabtracker
+Depiction: https://lint.github.io/debs/?p=com.lint.tabtracker
 
 Package: com.lint.transparentwallpaperbuttons
 Version: 0.0.1
@@ -30,5 +30,5 @@ SHA256: 02c12a7222183ec179135ce8c45a837fdd1d06a99928b4bddfd451c59a4f57f5
 Description: Makes wallpaper buttons transparent in photos app.
 Name: TransparentWallpaperButtons
 Author: lint
-Depiction: https://DGh0st.github.io/debs/?p=com.lint.transparentwallpaperbuttons
+Depiction: https://lint.github.io/debs/?p=com.lint.transparentwallpaperbuttons
 
