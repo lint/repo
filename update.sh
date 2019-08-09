@@ -11,6 +11,6 @@ xz -c9e  --format=lzma Packages > Packages.lzma
 
 python gen_depictions.py
 
-git add *
+git add --all
 git commit -m "."
 git push origin master

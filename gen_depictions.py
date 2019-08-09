@@ -14,7 +14,7 @@ except:
 
 
 for package in packages["Packages"]:
-	packagePath = os.path.join(root, package.get("bundleid"))
+	packagePath = os.path.join(os.path.join(root, "depictions"), package.get("bundleid"))
 	
 	if not os.path.isdir(packagePath):
 		os.mkdir(packagePath)
