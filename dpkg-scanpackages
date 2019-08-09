@@ -178,10 +178,10 @@ FILE:
 	
 	$tv{'Filename'}= "$pathprefix$fn";
 
-	$tv{'Depiction'} = "https://lint.github.io/depictions/$p/";
-	$tv{'SileoDepiction'} = "https://lint.github.io/depictions/$p/sileo.json";
+	$tv{'Depiction'} = "https://lint.github.io/repo/depictions/$p/";
+	$tv{'SileoDepiction'} = "https://lint.github.io/repo/depictions/$p/sileo.json";
 
-	$tv{'ModernDepiction'} = "https://lint.github.io/depictions/$p/sileo.json";
+	$tv{'ModernDepiction'} = "https://lint.github.io/repo/depictions/$p/sileo.json";
 	
 	my @checksums = (
 		{
