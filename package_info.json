@@ -1,0 +1,28 @@
+{
+    "Packages": [
+        {
+            "bundleid": "com.lint.tabtracker", 
+            "description": "Logs number of tabs opened in Safari.", 
+            "title": "TabTracker", 
+            "version": "1.0"
+        }, 
+        {
+            "bundleid": "com.lint.transparentwallpaperbuttons", 
+            "description": "Makes wallpaper buttons transparent in photos app.", 
+            "title": "TransparentWallpaperButtons", 
+            "version": "0.0.1"
+        }
+    ], 
+    "Template": {
+        "bundleid": "<bundle id of the tweak>", 
+        "changelog": {
+            "<version>": "<changes>"
+        }, 
+        "description": "<tweak description>", 
+        "file": "<file name>", 
+        "max_ios": "<maximum ios version supported>", 
+        "min_ios": "<minimum ios version supported>", 
+        "title": "<page title>", 
+        "version": "<current file version>"
+    }
+}

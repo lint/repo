@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./dpkg-scanpackages debs /dev/null > Packages
+./dpkg-scanpackages -m debs /dev/null > Packages
 
 rm Packages.gz Packages.bz2
 
@@ -9,6 +9,8 @@ bzip2 -c9 Packages > Packages.bz2
 xz -c9e Packages > Packages.xz
 xz -c9e  --format=lzma Packages > Packages.lzma
 
-git add --all
-git commit -m "Updating Files"
+python gen_depictions.py
+
+git add *
+git commit -m "."
 git push origin master

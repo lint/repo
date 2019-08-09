@@ -3,12 +3,10 @@
 		<link>
 			<name>Message me on Reddit</name>
 			<url>https://old.reddit.com/message/compose?to=apieceoflint&subject=&message=</url>
-			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
 			<name>My GitHub page</name>
 			<url>https://github.com/lint/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 	</footerlinks>
 </repo>

@@ -51,7 +51,10 @@ my @fieldpri= ('Package',
                'Homepage',
                'Website',
                'Depiction',
+               'SileoDepiction',
+               'ModernDepiction',
                'Icon'
+
 	      );
 
 # This maps the fields into the proper case
@@ -175,7 +178,10 @@ FILE:
 	
 	$tv{'Filename'}= "$pathprefix$fn";
 
-	$tv{'Depiction'} = "https://lint.github.io/$binarydir/?p=$p";
+	$tv{'Depiction'} = "https://lint.github.io/depictions/$p/";
+	$tv{'SileoDepiction'} = "https://lint.github.io/depictions/$p/sileo.json";
+
+	$tv{'ModernDepiction'} = "https://lint.github.io/depictions/$p/sileo.json";
 	
 	my @checksums = (
 		{
