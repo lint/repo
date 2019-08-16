@@ -11,6 +11,12 @@
             "description": "Makes wallpaper buttons transparent in photos app.", 
             "title": "TransparentWallpaperButtons", 
             "version": "0.0.1"
+        },
+{
+            "bundleid": "com.lint.autoopencameraroll", 
+            "description": "Automatically opens camera roll when launching Photos or the photo picker. ", 
+            "title": "AutoOpenCameraRoll", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {
