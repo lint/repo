@@ -17,6 +17,25 @@ Depiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 
+Package: com.lint.newawardsforoldreddit
+Version: 1.2.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.newawardsforoldreddit_1.2.0_iphoneos-arm.deb
+Size: 88800
+Installed-Size: 600
+MD5sum: 39a00c560f139878784199359ab53ab8
+SHA1: 8a113626b38d58390426f912e719660159698166
+SHA256: ed981029711a61af32cf35fe91d3192073b9ad91c963efdc8c1c686ad6cb7f6a
+Description: silver & platinum for Reddit 3.13.1, Narwhal
+Name: NewAwardsForOldReddit
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
+
 Package: com.lint.tabtracker
 Version: 1.0
 Section: Tweaks
@@ -54,4 +73,23 @@ Author: lint
 Depiction: https://lint.github.io/repo/depictions/com.lint.transparentwallpaperbuttons/
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.transparentwallpaperbuttons/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.transparentwallpaperbuttons/sileo.json
+
+Package: com.lint.undelete
+Version: 1.0.2
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.0.2_iphoneos-arm.deb
+Size: 7360
+Installed-Size: 120
+MD5sum: e0442db859c4cf5625977f00091eb57e
+SHA1: 6017f7d0b30b2010b94b4e926b3fe8f6d3e0e4ba
+SHA256: 83efbe475537f17bcf636d863294ab945f3c03cbb1e9395536af87a4ddf25d26
+Description: Restores deleted or removed comments on Reddit.
+Name: undelete
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/com.lint.undelete/
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 
