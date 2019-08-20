@@ -1,4 +1,23 @@
 Package: com.lint.autoopencameraroll
+Version: 1.0.1
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.autoopencameraroll_1.0.1_iphoneos-arm.deb
+Size: 7434
+Installed-Size: 132
+MD5sum: c0936df033d545865131a2472b463401
+SHA1: 5e5ef115af72e2977c1aed52d97b93ff6440e7fd
+SHA256: baeda2216033b30e2d5cff24caba395917cc8be14d4208856aeb7a0a533db0ad
+Description: Opens photos directly to the camera roll.
+Name: AutoOpenCameraRoll
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
+
+Package: com.lint.autoopencameraroll
 Version: 1.0.0
 Section: Tweaks
 Maintainer: lint
