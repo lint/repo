@@ -4,48 +4,46 @@
             "bundleid": "com.lint.tabtracker", 
             "description": "Logs number of tabs opened in Safari.", 
             "title": "TabTracker", 
-            "version": "1.0"
+            "version": "1.0.0"
         }, 
         {
             "bundleid": "com.lint.transparentwallpaperbuttons", 
             "description": "Makes wallpaper buttons transparent in photos app.", 
             "title": "TransparentWallpaperButtons", 
             "version": "0.0.1"
-        },
-{
+        }, 
+        {
             "bundleid": "com.lint.autoopencameraroll", 
             "description": "Automatically opens camera roll when launching Photos or the photo picker. <br/> Issues: Currently the photos app functionality is only available for ios 11. The PhotoPicker moves to the camera roll after a slight delay after launching ", 
             "title": "AutoOpenCameraRoll", 
             "version": "1.0.0"
-        },
-{
+        }, 
+        {
             "bundleid": "com.lint.newawardsforoldreddit", 
             "description": "Implements Reddit's new awards (silver and platinum) into Reddit v3.13.1 and Narwhal.", 
             "title": "NewAwardsForOldReddit", 
             "version": "1.2.0"
-        },
-{
+        }, 
+        {
             "bundleid": "com.lint.undelete", 
-            "description": "Creates a button that retrieves deleted or removed comments for Reddit. <br/> Currently only supports version <= 3.13.1 of the official Reddit app. <br/> Comments retrieved using <a href=\"https://pushshift.io\">pushshift</a>.", 
+            "description": "Creates a button that retrieves deleted or removed comments for Reddit. <br/> Currently only supports version <= 3.13.1 of the official Reddit app. <br/> Comments retrieved using <a href=\\\"https://pushshift.io\\\">pushshift</a>.", 
             "title": "undelete", 
             "version": "1.0.2"
         }
     ], 
     "Template": {
-        "bundleid": "<bundle id of the tweak>", 
+        "bundleid": "<bundle id of the package>", 
         "changelog": {
-            "<version>": "<changes>"
+            "<version>": "<changes made in given version>"
         }, 
-        "description": "<tweak description>", 
-        "file": "<file name>", 
-        "max_ios": "<maximum ios version supported>", 
-        "min_ios": "<minimum ios version supported>", 
-        "title": "<page title>", 
-        "version": "<current file version>",
-"last_updated":"<date the package was last updated>",
-"screenshots":[
-"<screenshotname1>.png",
-"<screenshotnameX>.png",
-]
+        "description": "<package description>", 
+        "last_updated": "<date the package was last updated>", 
+        "max_ios": "<maximum ios the package supports>", 
+        "min_ios": "<minimum ios the package supports>", 
+        "screenshots": [
+            "<screenshot filename>"
+        ], 
+        "title": "<package title>", 
+        "version": "<current file version>"
     }
 }

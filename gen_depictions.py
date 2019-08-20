@@ -1,16 +1,20 @@
 from jinja2 import Template, Environment, FileSystemLoader, escape
-import json, os, re
+import json, os, re, plistlib
 
 root = os.path.dirname(os.path.abspath(__file__))
 templatesPath = os.path.join(root, 'templates')
 env = Environment(loader=FileSystemLoader(templatesPath), trim_blocks=True, lstrip_blocks=True)
 template = env.get_template('index.html')
 
+
 try:
-	with open(os.path.join(root, "package_info.json")) as f:
-		packages = json.loads(f.read())
+	packages = dict(plistlib.readPlist(os.path.join(root, "package_info.plist")))
+	plistlib.writePlist(packages, os.path.join(root,"package_info.plist"))
+
+	with open(os.path.join(root, "package_info.json"),"w") as f:
+		f.write(json.dumps(packages, indent=4, sort_keys=True))
 except:
-	print ("Package_info.json not found")
+	print ("package_info.plist not found")
 
 
 for package in packages["Packages"]:

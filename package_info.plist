@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Packages</key>
+	<array>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.tabtracker</string>
+			<key>description</key>
+			<string>Logs number of tabs opened in Safari.</string>
+			<key>title</key>
+			<string>TabTracker</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.transparentwallpaperbuttons</string>
+			<key>description</key>
+			<string>Makes wallpaper buttons transparent in photos app.</string>
+			<key>title</key>
+			<string>TransparentWallpaperButtons</string>
+			<key>version</key>
+			<string>0.0.1</string>
+		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.autoopencameraroll</string>
+			<key>description</key>
+			<string>Automatically opens camera roll when launching Photos or the photo picker. &lt;br/&gt; Issues: Currently the photos app functionality is only available for ios 11. The PhotoPicker moves to the camera roll after a slight delay after launching </string>
+			<key>title</key>
+			<string>AutoOpenCameraRoll</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.newawardsforoldreddit</string>
+			<key>description</key>
+			<string>Implements Reddit's new awards (silver and platinum) into Reddit v3.13.1 and Narwhal.</string>
+			<key>title</key>
+			<string>NewAwardsForOldReddit</string>
+			<key>version</key>
+			<string>1.2.0</string>
+		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.undelete</string>
+			<key>description</key>
+			<string>Creates a button that retrieves deleted or removed comments for Reddit. &lt;br/&gt; Currently only supports version &lt;= 3.13.1 of the official Reddit app. &lt;br/&gt; Comments retrieved using &lt;a href=\"https://pushshift.io\"&gt;pushshift&lt;/a&gt;.</string>
+			<key>title</key>
+			<string>undelete</string>
+			<key>version</key>
+			<string>1.0.2</string>
+		</dict>
+	</array>
+	<key>Template</key>
+	<dict>
+		<key>bundleid</key>
+		<string>&lt;bundle id of the package&gt;</string>
+		<key>changelog</key>
+		<dict>
+			<key>&lt;version&gt;</key>
+			<string>&lt;changes made in given version&gt;</string>
+		</dict>
+		<key>description</key>
+		<string>&lt;package description&gt;</string>
+		<key>last_updated</key>
+		<string>&lt;date the package was last updated&gt;</string>
+		<key>max_ios</key>
+		<string>&lt;maximum ios the package supports&gt;</string>
+		<key>min_ios</key>
+		<string>&lt;minimum ios the package supports&gt;</string>
+		<key>screenshots</key>
+		<array>
+			<string>&lt;screenshot filename&gt;</string>
+		</array>
+		<key>title</key>
+		<string>&lt;package title&gt;</string>
+		<key>version</key>
+		<string>&lt;current file version&gt;</string>
+	</dict>
+</dict>
+</plist>
