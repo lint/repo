@@ -52,13 +52,28 @@
                 {% endfor %}
             </ul>
         {% endif %}
-        <h2 role="header">Information</h2>
+        <h2 role="header">Package Information</h2>
+        <ul>
+            <li>
+                Version: {{ version }}
+            </li>
+            <li>
+                Last Updated: {{ last_updated }}
+            </li>
+            <li>
+                Compatibility: {% if min_ios and not max_ios %}  >= {{ min_ios }} {% endif %} {% elif not min_ios and max_ios %} <= {{ max_ios }} {% endif %} {% elif min_ios and max_ios %} {{ min_ios }} to {{ max_ios }} {% endif %} {% else %} N/A {% endelse %}
+            </li>
+        </ul>
+        <h2 role="header">Contact Information</h2>
         <ul>
 			<li>
                 <a href="https://old.reddit.com/message/compose?to=apieceoflint&subject=&message=">Message me on Reddit</a>
 			</li>
 			<li>
                 <a href="https://github.com/lint">GitHub</a>
+			</li>
+			<li>
+                <a href="mailto:apieceoflint@protonmail.com">Send me an email.</a>
 			</li>
 		</ul>
     </main>
