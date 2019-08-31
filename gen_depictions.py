@@ -31,13 +31,18 @@ for package in packages["Packages"]:
 	max_ios = package.get("max_ios",0)
 	strict_range = package.get("strict_range",0)
 	debug = package.get("debug",0)
+	try:
+		sortedChangelog = sorted(changelog)
+	except:
+		sortedChangelog = None
+
 	
 	with open(os.path.join(packagePath, "index.html"), 'w') as f:
 		f.write(template.render(
 			title = title,
 			description = description,
 			changelog = changelog,
-			sortedChangelog = sorted(changelog),
+			sortedChangelog = sortedChangelog,
 			min_ios = min_ios,
 			max_ios = max_ios,
 			strict_range = strict_range,
