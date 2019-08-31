@@ -32,7 +32,7 @@ for package in packages["Packages"]:
 	strict_range = package.get("strict_range",0)
 	debug = package.get("debug",0)
 	try:
-		sortedChangelog = sorted(changelog)
+		sortedChangelog = sorted(changelog,reverse = True)
 	except:
 		sortedChangelog = None
 
