@@ -14,9 +14,13 @@
         }, 
         {
             "bundleid": "com.lint.autoopencameraroll", 
+            "changelog": {
+                "1.0.0": "Initial release.", 
+                "1.0.1": "Added support for ios 12 photos app."
+            }, 
             "description": "Automatically opens camera roll when launching Photos or the photo picker. <br/> Issues: Currently the photos app functionality is only available for ios 11. The PhotoPicker moves to the camera roll after a slight delay after launching ", 
             "title": "AutoOpenCameraRoll", 
-            "version": "1.0.0"
+            "version": "1.0.1"
         }, 
         {
             "bundleid": "com.lint.newawardsforoldreddit", 

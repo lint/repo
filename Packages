@@ -5,11 +5,11 @@ Maintainer: lint
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.lint.autoopencameraroll_1.0.1_iphoneos-arm.deb
-Size: 7434
+Size: 7534
 Installed-Size: 132
-MD5sum: c0936df033d545865131a2472b463401
-SHA1: 5e5ef115af72e2977c1aed52d97b93ff6440e7fd
-SHA256: baeda2216033b30e2d5cff24caba395917cc8be14d4208856aeb7a0a533db0ad
+MD5sum: a88e1ada7f9ad8399899e00cc3263e5d
+SHA1: 5687ef18c220b7656a10124d7bb2f6273d91eaeb
+SHA256: ebf40455f294eb4a2c62185736cc702448f7596fd0c60b383cd05300fac9e24d
 Description: Opens photos directly to the camera roll.
 Name: AutoOpenCameraRoll
 Author: lint
