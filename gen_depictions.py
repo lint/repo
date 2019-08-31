@@ -37,6 +37,7 @@ for package in packages["Packages"]:
 			title = title,
 			description = description,
 			changelog = changelog,
+			sortedChangelog = sorted(changelog),
 			min_ios = min_ios,
 			max_ios = max_ios,
 			strict_range = strict_range,

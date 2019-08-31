@@ -45,7 +45,7 @@
         {% if changelog %}
             <h2 role="header">Latest Changes</h2>
             <ul>
-                {% for change in sorted(changelog) %}
+                {% for change in sortedChangelog %}
                     <li>
                         <p>{{ change }}: {{ changelog[change] }}</p>
                     </li>
