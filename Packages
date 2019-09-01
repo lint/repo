@@ -74,6 +74,25 @@ Depiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/sileo.json
 
+Package: com.lint.testautoopen
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.testautoopen_0.0.1-1+debug_iphoneos-arm.deb
+Size: 10448
+Installed-Size: 132
+MD5sum: 81de91d46bfb7464e25bd0be1b72a58c
+SHA1: 422da7de8079bd4f3b6efa2f9ed9eed91c058662
+SHA256: 5ce7c8a8b52df33d1690f21bc5fda51cd8d94ea327855210213c01b9b60021a4
+Description: An awesome MobileSubstrate tweak!
+Name: TestAutoOpen
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/com.lint.testautoopen/
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.testautoopen/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.testautoopen/sileo.json
+
 Package: com.lint.transparentwallpaperbuttons
 Version: 0.0.1
 Section: Tweaks
