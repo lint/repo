@@ -1,23 +1,4 @@
 Package: com.lint.autoopencameraroll
-Version: 1.0.1
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.autoopencameraroll_1.0.1_iphoneos-arm.deb
-Size: 7534
-Installed-Size: 132
-MD5sum: a88e1ada7f9ad8399899e00cc3263e5d
-SHA1: 5687ef18c220b7656a10124d7bb2f6273d91eaeb
-SHA256: ebf40455f294eb4a2c62185736cc702448f7596fd0c60b383cd05300fac9e24d
-Description: Opens photos directly to the camera roll.
-Name: AutoOpenCameraRoll
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
-
-Package: com.lint.autoopencameraroll
 Version: 1.0.0
 Section: Tweaks
 Maintainer: lint
@@ -29,6 +10,25 @@ Installed-Size: 120
 MD5sum: 4f1e2a64ba901ced6860df5000c5c062
 SHA1: 14835133934a9764daf627ae1c577f7c8fe2ebd9
 SHA256: 6b69224786624acdc09ef104a4a8c50d49c89d5e4b43e266e6b04eea83084081
+Description: Opens photos directly to the camera roll.
+Name: AutoOpenCameraRoll
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
+
+Package: com.lint.autoopencameraroll
+Version: 1.0.2
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.autoopencameraroll_1.0.2_iphoneos-arm.deb
+Size: 8102
+Installed-Size: 132
+MD5sum: 99efcda42f7b8cf95ebec1ac71242722
+SHA1: 1da03729b65bd7d6a7b058ae41d047f1e0f5d3d9
+SHA256: c64922d11dcaecfc799e9239d71592d322aa0c3910025929665c17852905178f
 Description: Opens photos directly to the camera roll.
 Name: AutoOpenCameraRoll
 Author: lint
@@ -73,25 +73,6 @@ Author: lint
 Depiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/sileo.json
-
-Package: com.lint.testautoopen
-Version: 0.0.1-1+debug
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.testautoopen_0.0.1-1+debug_iphoneos-arm.deb
-Size: 10448
-Installed-Size: 132
-MD5sum: 81de91d46bfb7464e25bd0be1b72a58c
-SHA1: 422da7de8079bd4f3b6efa2f9ed9eed91c058662
-SHA256: 5ce7c8a8b52df33d1690f21bc5fda51cd8d94ea327855210213c01b9b60021a4
-Description: An awesome MobileSubstrate tweak!
-Name: TestAutoOpen
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/com.lint.testautoopen/
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.testautoopen/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.testautoopen/sileo.json
 
 Package: com.lint.transparentwallpaperbuttons
 Version: 0.0.1
