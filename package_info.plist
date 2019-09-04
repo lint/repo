@@ -33,6 +33,8 @@
 				<string>Initial release.</string>
 				<key>1.0.1</key>
 				<string>Added support for ios 12 photos app.</string>
+				<key>1.0.2</key>
+				<string>*Actually* implemented it for ios 12.</string>
 			</dict>
 			<key>description</key>
 			<string>Automatically opens camera roll when launching Photos or the PhotoPicker &lt;br/&gt; Issues: The PhotoPicker moves to the camera roll after a slight delay after launching </string>
