@@ -63,6 +63,16 @@
 			<key>version</key>
 			<string>1.0.2</string>
 		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.videoflashindicator</string>
+			<key>description</key>
+			<string>A flash that lasts for 1 second after a video recording is started. Helpful with showing if remote activators actually started the video.</string>
+			<key>title</key>
+			<string>VideoFlashIndicator</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
 	</array>
 	<key>Template</key>
 	<dict>

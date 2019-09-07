@@ -112,3 +112,22 @@ Depiction: https://lint.github.io/repo/depictions/com.lint.undelete/
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 
+Package: com.lint.videoflashindicator
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.videoflashindicator_1.0.0_iphoneos-arm.deb
+Size: 12860
+Installed-Size: 368
+MD5sum: da20a229e352a11a8a63254df4a3cc6a
+SHA1: cf67cd01c2f439d4e1317064b27c47029a71b5d5
+SHA256: 395d51f88465fd1af9ae453bdd5ecdc5c837ec3e8f0fc59b38a4cc2217b4f91c
+Description: Enables flash briefly when starting a video.
+Name: VideoFlashIndicator
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
+
