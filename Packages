@@ -119,11 +119,11 @@ Maintainer: lint
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.lint.videoflashindicator_1.0.0-1_iphoneos-arm.deb
-Size: 454
+Size: 14958
 Installed-Size: 344
-MD5sum: 441edaf03454500467c6d4a939c25423
-SHA1: 7907a363b01c94540fe96e4b3267f3722dc246c6
-SHA256: 56ee1d4bb92e0436b42194ea8218831d5d14ab92939bb74804b149e800691370
+MD5sum: e31db1d6145709dbb0fc0cfa9c83abf3
+SHA1: 21939aa3e4753a9e5becf2bda505cb8ff1fdf5b7
+SHA256: b7caeaa6ac2459d720d9bcb16143dd8b18afd0766da28e9d72eecf681214473e
 Description: Enables flash briefly when starting a recording.
 Name: VideoFlashIndicator
 Author: lint
