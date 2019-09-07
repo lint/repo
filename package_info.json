@@ -37,6 +37,10 @@
         }, 
         {
             "bundleid": "com.lint.videoflashindicator", 
+            "changelog": {
+                "1.0.0": "Initial release.", 
+                "1.0.0-1": "Added arm64e support."
+            }, 
             "description": "A flash that lasts for 1 second after a video recording is started. Helpful with showing if remote activators actually started the video.", 
             "title": "VideoFlashIndicator", 
             "version": "1.0.0"
