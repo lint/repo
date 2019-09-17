@@ -9,6 +9,8 @@
 			<string>com.lint.tabtracker</string>
 			<key>description</key>
 			<string>Logs number of tabs opened in Safari.</string>
+			<key>last_updated</key>
+			<string>2018-12-13</string>
 			<key>title</key>
 			<string>TabTracker</string>
 			<key>version</key>
@@ -38,6 +40,8 @@
 			</dict>
 			<key>description</key>
 			<string>Automatically opens camera roll when launching Photos or the PhotoPicker &lt;br/&gt; Issues: The PhotoPicker moves to the camera roll after a slight delay after launching </string>
+			<key>last_updated</key>
+			<string>2019-09-01</string>
 			<key>title</key>
 			<string>AutoOpenCameraRoll</string>
 			<key>version</key>
@@ -48,6 +52,8 @@
 			<string>com.lint.newawardsforoldreddit</string>
 			<key>description</key>
 			<string>Implements Reddit's new awards (silver and platinum) into Reddit v3.13.1 and Narwhal.</string>
+			<key>last_updated</key>
+			<string>2019-03-17</string>
 			<key>title</key>
 			<string>NewAwardsForOldReddit</string>
 			<key>version</key>
@@ -58,6 +64,8 @@
 			<string>com.lint.undelete</string>
 			<key>description</key>
 			<string>Creates a button that retrieves deleted or removed comments for Reddit. &lt;br/&gt; Currently only supports version &lt;= 3.13.1 of the official Reddit app. &lt;br/&gt; Comments retrieved using &lt;a href="https://pushshift.io"&gt;pushshift&lt;/a&gt;.</string>
+			<key>last_updated</key>
+			<string>2019-08-17</string>
 			<key>title</key>
 			<string>undelete</string>
 			<key>version</key>
@@ -75,8 +83,26 @@
 			</dict>
 			<key>description</key>
 			<string>A flash that lasts for 1 second after a video recording is started. Helpful with showing if remote activators actually started the video.</string>
+			<key>last_updated</key>
+			<string>2019-09-07</string>
 			<key>title</key>
 			<string>VideoFlashIndicator</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
+		<dict>
+			<key>bundleida</key>
+			<string>com.lint.photoctrl</string>
+			<key>description</key>
+			<string>Adds a "ctrl" like function to the Photos App when selecting photos. 
+&lt;br/&gt;
+Supports A12
+
+</string>
+			<key>last_updated</key>
+			<string>2019-09-17</string>
+			<key>title</key>
+			<string>PhotoCtrl</string>
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>

@@ -3,6 +3,7 @@
         {
             "bundleid": "com.lint.tabtracker", 
             "description": "Logs number of tabs opened in Safari.", 
+            "last_updated": "2018-12-13", 
             "title": "TabTracker", 
             "version": "1.0.0"
         }, 
@@ -20,18 +21,21 @@
                 "1.0.2": "*Actually* implemented it for ios 12."
             }, 
             "description": "Automatically opens camera roll when launching Photos or the PhotoPicker <br/> Issues: The PhotoPicker moves to the camera roll after a slight delay after launching ", 
+            "last_updated": "2019-09-01", 
             "title": "AutoOpenCameraRoll", 
             "version": "1.0.1"
         }, 
         {
             "bundleid": "com.lint.newawardsforoldreddit", 
             "description": "Implements Reddit's new awards (silver and platinum) into Reddit v3.13.1 and Narwhal.", 
+            "last_updated": "2019-03-17", 
             "title": "NewAwardsForOldReddit", 
             "version": "1.2.0"
         }, 
         {
             "bundleid": "com.lint.undelete", 
             "description": "Creates a button that retrieves deleted or removed comments for Reddit. <br/> Currently only supports version <= 3.13.1 of the official Reddit app. <br/> Comments retrieved using <a href=\"https://pushshift.io\">pushshift</a>.", 
+            "last_updated": "2019-08-17", 
             "title": "undelete", 
             "version": "1.0.2"
         }, 
@@ -42,7 +46,15 @@
                 "1.0.0-1": "Added arm64e support."
             }, 
             "description": "A flash that lasts for 1 second after a video recording is started. Helpful with showing if remote activators actually started the video.", 
+            "last_updated": "2019-09-07", 
             "title": "VideoFlashIndicator", 
+            "version": "1.0.0"
+        }, 
+        {
+            "bundleida": "com.lint.photoctrl", 
+            "description": "Adds a \"ctrl\" like function to the Photos App when selecting photos. \n<br/>\nSupports A12\n\n", 
+            "last_updated": "2019-09-17", 
+            "title": "PhotoCtrl", 
             "version": "1.0.0"
         }
     ], 

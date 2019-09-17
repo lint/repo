@@ -55,6 +55,25 @@ Depiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
 
+Package: com.lint.photoctrl
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.photoctrl_1.0.0_iphoneos-arm.deb
+Size: 14506
+Installed-Size: 112
+MD5sum: 21e399aa666c9c7aeeec92dbba0ff520
+SHA1: 51c988f15c8816a8f671431b24ca73ddfea33070
+SHA256: c8743553ac08751101ed02be60fde360cec3d81d7ffb7c25fbea94d4d878269a
+Description: Adds a "ctrl" like function for selecting photos.
+Name: PhotoCtrl
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/sileo.json
+
 Package: com.lint.tabtracker
 Version: 1.0
 Section: Tweaks
@@ -80,7 +99,7 @@ Section: Tweaks
 Maintainer: lint
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.lint.transparentwallpaperbuttons_0.0.1_iphoneos-arm.deb
+Filename: debs/old/com.lint.transparentwallpaperbuttons_0.0.1_iphoneos-arm.deb
 Size: 2576
 Installed-Size: 120
 MD5sum: 3a4bf49754ddf71b11088de12966506a
