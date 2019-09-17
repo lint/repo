@@ -91,7 +91,7 @@
 			<string>1.0.0</string>
 		</dict>
 		<dict>
-			<key>bundleida</key>
+			<key>bundleid</key>
 			<string>com.lint.photoctrl</string>
 			<key>description</key>
 			<string>Adds a "ctrl" like function to the Photos App when selecting photos. 
