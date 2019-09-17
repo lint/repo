@@ -31,6 +31,8 @@ for package in packages["Packages"]:
 	max_ios = package.get("max_ios",0)
 	strict_range = package.get("strict_range",0)
 	debug = package.get("debug",0)
+	version = package.get("version",0)
+	last_updated = package.get("last_updated",0)
 	try:
 		sortedChangelog = sorted(changelog,reverse = True)
 	except:
@@ -46,7 +48,9 @@ for package in packages["Packages"]:
 			min_ios = min_ios,
 			max_ios = max_ios,
 			strict_range = strict_range,
-			debug = debug
+			debug = debug,
+			last_updated = last_updated,
+			version = version
 		))
 	print ("Generated {}/index.html".format(package.get("bundleid")))
 	
