@@ -101,6 +101,8 @@ Supports A12
 </string>
 			<key>last_updated</key>
 			<string>2019-09-17</string>
+			<key>source</key>
+			<string>https://github.com/lint/PhotoCtrl</string>
 			<key>title</key>
 			<string>PhotoCtrl</string>
 			<key>version</key>
@@ -128,6 +130,8 @@ Supports A12
 		<array>
 			<string>&lt;screenshot filename&gt;</string>
 		</array>
+		<key>source</key>
+		<string>&lt;https://github.com/lint/SOURCE&gt;</string>
 		<key>title</key>
 		<string>&lt;package title&gt;</string>
 		<key>version</key>

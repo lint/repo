@@ -74,6 +74,11 @@
             <li>
                 Compatibility: {% if min_ios and not max_ios %}  >= {{ min_ios }} {% endif %} {% if not min_ios and max_ios %} <= {{ max_ios }} {% endif %} {% if min_ios and max_ios %} {{ min_ios }} to {{ max_ios }} {% endif %} {% if not min_ios and not max_ios %} N/A {% endif %}
             </li>
+            {% if source %}
+              <li>
+                <a href="{{ source }}">Source</a>
+              </li>
+            {% endif %}
         </ul>
         <h2 role="header">Contact Information</h2>
         <ul>
