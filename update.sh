@@ -13,4 +13,4 @@ python gen_depictions.py
 
 git add --all
 git commit -m "."
-git push origin master
+git push origin master -q
