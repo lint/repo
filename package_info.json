@@ -52,7 +52,7 @@
         }, 
         {
             "bundleid": "com.lint.photoctrl", 
-            "description": "Adds a \"ctrl\" like function to the Photos App when selecting photos. \n<br/>\nSupports A12\n\n", 
+            "description": "Adds a \"ctrl + shift\" like function to the Photos App when selecting photos. \n<br/>\nSupports A12\n\n", 
             "last_updated": "2019-09-17", 
             "title": "PhotoCtrl", 
             "version": "1.0.0"
