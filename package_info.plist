@@ -93,6 +93,13 @@
 		<dict>
 			<key>bundleid</key>
 			<string>com.lint.photoctrl</string>
+			<key>changelog</key>
+			<dict>
+				<key>1.0.0</key>
+				<string>Initial release</string>
+				<key>1.0.1</key>
+				<string>Fix crash when creating a new album. </string>
+			</dict>
 			<key>description</key>
 			<string>Adds a "ctrl + shift" like function to the Photos App when selecting photos. 
 &lt;br/&gt;

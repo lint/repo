@@ -52,6 +52,10 @@
         }, 
         {
             "bundleid": "com.lint.photoctrl", 
+            "changelog": {
+                "1.0.0": "Initial release", 
+                "1.0.1": "Fix crash when creating a new album. "
+            }, 
             "description": "Adds a \"ctrl + shift\" like function to the Photos App when selecting photos. \n<br/>\nSupports A12\n\n", 
             "last_updated": "2019-09-17", 
             "source": "https://github.com/lint/PhotoCtrl", 

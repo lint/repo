@@ -56,18 +56,18 @@ SileoDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldr
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
 
 Package: com.lint.photoctrl
-Version: 1.0.0
+Version: 1.0.1
 Section: Tweaks
 Maintainer: lint <apieceoflint@protonmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.lint.photoctrl_1.0.0_iphoneos-arm.deb
-Size: 14506
+Filename: debs/com.lint.photoctrl_1.0.1_iphoneos-arm.deb
+Size: 14450
 Installed-Size: 112
-MD5sum: 21e399aa666c9c7aeeec92dbba0ff520
-SHA1: 51c988f15c8816a8f671431b24ca73ddfea33070
-SHA256: c8743553ac08751101ed02be60fde360cec3d81d7ffb7c25fbea94d4d878269a
-Description: Adds a "ctrl" like function for selecting photos.
+MD5sum: 711f42a780b869b17031ff38be1df24e
+SHA1: 54dedfa9d1f1aaf159f58f3da10fbfcdfd5c0516
+SHA256: e4d22bca85ec26cfdabdeb1d733a41a99c18c4f737548a0e11ccff97384b267a
+Description: Adds a "ctrl + shift" like function for selecting photos.
 Name: PhotoCtrl
 Author: lint <apieceoflint@protonmail.com>
 Depiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/
