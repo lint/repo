@@ -62,11 +62,11 @@ Maintainer: lint <apieceoflint@protonmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.lint.photoctrl_1.0.1_iphoneos-arm.deb
-Size: 14450
+Size: 14538
 Installed-Size: 112
-MD5sum: 711f42a780b869b17031ff38be1df24e
-SHA1: 54dedfa9d1f1aaf159f58f3da10fbfcdfd5c0516
-SHA256: e4d22bca85ec26cfdabdeb1d733a41a99c18c4f737548a0e11ccff97384b267a
+MD5sum: 34c8f77d7d2432172cc25647a4ece690
+SHA1: b81424df946ee6c652746b67fc39f13fb1467a21
+SHA256: 764aa6dbf61d33b0bb9d742c951843758b0bd306df4a96d95127d77b0b37f722
 Description: Adds a "ctrl + shift" like function for selecting photos.
 Name: PhotoCtrl
 Author: lint <apieceoflint@protonmail.com>
