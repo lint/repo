@@ -108,6 +108,22 @@ Supports A12
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.bruhyougotplayed</string>
+			<key>description</key>
+			<string>Replaces "Read" with "Played" after an hour and a half.
+
+A12 supported.</string>
+			<key>last_updated</key>
+			<string>2019-09-20</string>
+			<key>source</key>
+			<string>https://github.com/lint/BruhYouGotPlayed</string>
+			<key>title</key>
+			<string>BruhYouGotPlayed</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
 	</array>
 	<key>Template</key>
 	<dict>

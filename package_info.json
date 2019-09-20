@@ -57,6 +57,14 @@
             "source": "https://github.com/lint/PhotoCtrl", 
             "title": "PhotoCtrl", 
             "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.bruhyougotplayed", 
+            "description": "Replaces \"Read\" with \"Played\" after an hour and a half.\n\nA12 supported.", 
+            "last_updated": "2019-09-20", 
+            "source": "https://github.com/lint/BruhYouGotPlayed", 
+            "title": "BruhYouGotPlayed", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {

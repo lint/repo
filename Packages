@@ -36,6 +36,25 @@ Depiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 
+Package: com.lint.bruhyougotplayed
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.bruhyougotplayed_1.0.0_iphoneos-arm.deb
+Size: 6544
+Installed-Size: 104
+MD5sum: b7189812741b97103e9c8cad3b8e30d8
+SHA1: 2ed157f527bf03d54478c13c8e0ac0df50345c9c
+SHA256: 16558abad1508fee3f4dc394acb5fb881f1c7df3592a7467d427f6ea5786b246
+Description: Replaces "Read" with "Played" in messages after an hour an a half.
+Name: BruhYouGotPlayed
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/com.lint.bruhyougotplayed/
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.bruhyougotplayed/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.bruhyougotplayed/sileo.json
+
 Package: com.lint.newawardsforoldreddit
 Version: 1.2.0
 Section: Tweaks
