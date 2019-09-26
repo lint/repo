@@ -62,14 +62,41 @@
 		<dict>
 			<key>bundleid</key>
 			<string>com.lint.undelete</string>
+			<key>changelog</key>
+			<dict>
+				<key>1.0.0</key>
+				<string>Initial release</string>
+				<key>1.0.2</key>
+				<string>Bug fixes and improvements</string>
+				<key>1.1.0</key>
+				<string>
+
+&amp;#8226; Complete redesign of button &lt;br/&gt;
+&amp;#8226; Compatible with Reddit 4.x &lt;br/&gt;
+&amp;#8226; Add functionality for posts &lt;br/&gt;
+&amp;#8226; A12 support 
+</string>
+			</dict>
 			<key>description</key>
-			<string>Creates a button that retrieves deleted or removed comments for Reddit. &lt;br/&gt; Currently only supports version &lt;= 3.13.1 of the official Reddit app. &lt;br/&gt; Comments retrieved using &lt;a href="https://pushshift.io"&gt;pushshift&lt;/a&gt;.</string>
+			<string>See what those pesky "[deleted]" comments and posts were without leaving Reddit! 
+
+&lt;br/&gt;&lt;br/&gt; 
+
+To use, tap the "..." button on comments or a self text post, and then tap on the new option called "TF did that say?". The comment/post will then be replaced with what it said when it was archived.
+
+&lt;br/&gt;&lt;br/&gt; 
+
+Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;pushshift&lt;/a&gt;.
+
+&lt;br/&gt;&lt;br/&gt; 
+
+A12 is supported.</string>
 			<key>last_updated</key>
-			<string>2019-08-17</string>
+			<string>2019-09-25</string>
 			<key>title</key>
 			<string>undelete</string>
 			<key>version</key>
-			<string>1.0.2</string>
+			<string>1.1.0</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>
