@@ -131,6 +131,25 @@ Depiction: https://lint.github.io/repo/depictions/com.lint.undelete/
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 
+Package: com.lint.undelete
+Version: 1.1.1
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.1.1_iphoneos-arm.deb
+Size: 22868
+Installed-Size: 216
+MD5sum: 3f3508fd09e4da587d7b9910d9cee11a
+SHA1: 04ee3067e0d71b6dfd5ff802157044909159daff
+SHA256: d3a400dc09fd3e40f97d8af8d30ab42d366377b4594bdd8b87b4525b581bee86
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/com.lint.undelete/
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
 Package: com.lint.videoflashindicator
 Version: 1.0.0-1
 Section: Tweaks
