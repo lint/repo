@@ -94,6 +94,25 @@ SileoDepiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/sileo
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/sileo.json
 
 Package: com.lint.undelete
+Version: 1.2.2
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.2.2_iphoneos-arm.deb
+Size: 65644
+Installed-Size: 284
+MD5sum: 584b794ab8f1d48a025e1db644b2ba05
+SHA1: b2dbd904762b98ff0f9f618709b1c6f09b5ced63
+SHA256: a4630c1ad5b7d234db5d8f8377908806b4369c6d49202538aba9405491a6c4a8
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/com.lint.undelete/
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.undelete
 Version: 1.2.0
 Section: Tweaks
 Maintainer: lint <apieceoflint@protonmail.com>
@@ -105,25 +124,6 @@ Installed-Size: 184
 MD5sum: 41258a84513891ae50db670f76dbdc0c
 SHA1: d823f146a7ca5e74c5c3ff804d0c9fcf3c0073bb
 SHA256: 2cf4f0c9c6b5cf17f003b75899c740428588a7eb7aa2ed15d59ea52217643f75
-Description: See "[deleted]" comments and posts without leaving Reddit!
-Name: TFDidThatSay?
-Author: lint <apieceoflint@protonmail.com>
-Depiction: https://lint.github.io/repo/depictions/com.lint.undelete/
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
-
-Package: com.lint.undelete
-Version: 1.2.1
-Section: Tweaks
-Maintainer: lint <apieceoflint@protonmail.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.undelete_1.2.1_iphoneos-arm.deb
-Size: 65644
-Installed-Size: 284
-MD5sum: eb2b002eb579cf2b9a352b3d2b4933a7
-SHA1: d67e187c0245ea464f4776466b96893f18d3da8e
-SHA256: e26ffa71830fd3fbc25bd46eef195ca097491a959703bc8240218c31a4895f2a
 Description: See "[deleted]" comments and posts without leaving Reddit!
 Name: TFDidThatSay?
 Author: lint <apieceoflint@protonmail.com>
