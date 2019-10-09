@@ -119,11 +119,11 @@ Maintainer: lint <apieceoflint@protonmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.lint.undelete_1.2.1_iphoneos-arm.deb
-Size: 31494
-Installed-Size: 200
-MD5sum: 82643ed3597c63f45692a7a883f66295
-SHA1: 4e56ba74e38c540d7364c8bcac62b0dbf2994532
-SHA256: 2465172f49a18c4a4c1fffcac079c030d7682244cf32659eb5ef57828ed24ae8
+Size: 65644
+Installed-Size: 284
+MD5sum: eb2b002eb579cf2b9a352b3d2b4933a7
+SHA1: d67e187c0245ea464f4776466b96893f18d3da8e
+SHA256: e26ffa71830fd3fbc25bd46eef195ca097491a959703bc8240218c31a4895f2a
 Description: See "[deleted]" comments and posts without leaving Reddit!
 Name: TFDidThatSay?
 Author: lint <apieceoflint@protonmail.com>
