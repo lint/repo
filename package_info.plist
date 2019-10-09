@@ -80,6 +80,8 @@
 				<string>Bug fixes</string>
 				<key>1.2.0</key>
 				<string>Add Apollo &amp; Narwhal support, fixed crash when empty data was received from pushshift.</string>
+				<key>1.2.1</key>
+				<string>Fix post crash on Reddit 4.44.0</string>
 			</dict>
 			<key>description</key>
 			<string>See what those pesky "[deleted]" comments and posts were without leaving Reddit! 
