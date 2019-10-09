@@ -94,17 +94,17 @@ SileoDepiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/sileo
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/sileo.json
 
 Package: com.lint.undelete
-Version: 1.1.0
+Version: 1.2.0
 Section: Tweaks
 Maintainer: lint <apieceoflint@protonmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.lint.undelete_1.1.0_iphoneos-arm.deb
-Size: 16784
-Installed-Size: 120
-MD5sum: 9ff5e6d081dff8d2c92cefa1f90c119f
-SHA1: ba6a820a33769740cac0fef9da070c973372097b
-SHA256: 1ee5ee982159267eac121fc70589294ed83448af7b348033124b818ffd1bc277
+Filename: debs/com.lint.undelete_1.2.0_iphoneos-arm.deb
+Size: 30980
+Installed-Size: 184
+MD5sum: 41258a84513891ae50db670f76dbdc0c
+SHA1: d823f146a7ca5e74c5c3ff804d0c9fcf3c0073bb
+SHA256: 2cf4f0c9c6b5cf17f003b75899c740428588a7eb7aa2ed15d59ea52217643f75
 Description: See "[deleted]" comments and posts without leaving Reddit!
 Name: TFDidThatSay?
 Author: lint <apieceoflint@protonmail.com>

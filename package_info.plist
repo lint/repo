@@ -76,13 +76,29 @@
 &amp;#8226; Add functionality for posts &lt;br/&gt;
 &amp;#8226; A12 support 
 </string>
+				<key>1.1.1</key>
+				<string>Bug fixes</string>
+				<key>1.2.0</key>
+				<string>Add Apollo &amp; Narwhal support, fixed crash when empty data was received from pushshift.</string>
 			</dict>
 			<key>description</key>
 			<string>See what those pesky "[deleted]" comments and posts were without leaving Reddit! 
 
 &lt;br/&gt;&lt;br/&gt; 
 
+For Reddit: 
 To use, tap the "..." button on comments or a self text post, and then tap on the new option called "TF did that say?". The comment/post will then be replaced with what it said when it was archived.
+
+&lt;br/&gt;
+
+For Apollo:
+Tap the small eye icon added to comments and self text posts.
+
+&lt;br/&gt;
+
+For Narwhal: 
+Open the "more" menu on comments, tap the new button that says "tf did that say?" to activate. On self text posts, tap the "..." button and do the same thing.
+
 
 &lt;br/&gt;&lt;br/&gt; 
 
@@ -92,11 +108,11 @@ Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;push
 
 A12 is supported.</string>
 			<key>last_updated</key>
-			<string>2019-09-25</string>
+			<string>2019-10-08</string>
 			<key>title</key>
 			<string>undelete</string>
 			<key>version</key>
-			<string>1.1.0</string>
+			<string>1.2.0</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>
