@@ -40,12 +40,14 @@
                 "1.1.0": "\n\n&#8226; Complete redesign of button <br/>\n&#8226; Compatible with Reddit 4.x <br/>\n&#8226; Add functionality for posts <br/>\n&#8226; A12 support \n", 
                 "1.1.1": "Bug fixes", 
                 "1.2.0": "Add Apollo & Narwhal support, fixed crash when empty data was received from pushshift.", 
-                "1.2.1": "Fix post crash on Reddit 4.44.0"
+                "1.2.1": "Fix post crash on Reddit 4.44.0", 
+                "1.2.2": "Bug fixes", 
+                "1.2.3": "Add option to enable the eye for only deleted comments in Apollo, better fix for Apollo UI, reimplement option in Narwhal menu"
             }, 
             "description": "See what those pesky \"[deleted]\" comments and posts were without leaving Reddit! \n\n<br/><br/> \n\nFor Reddit: \nTo use, tap the \"...\" button on comments or a self text post, and then tap on the new option called \"TF did that say?\". The comment/post will then be replaced with what it said when it was archived.\n\n<br/>\n\nFor Apollo:\nTap the small eye icon added to comments and self text posts.\n\n<br/>\n\nFor Narwhal: \nOpen the \"more\" menu on comments, tap the new button that says \"tf did that say?\" to activate. On self text posts, tap the \"...\" button and do the same thing.\n\n\n<br/><br/> \n\nComments and posts are retrieved using <a href=\"https://pushshift.io\">pushshift</a>.\n\n<br/><br/> \n\nA12 is supported.", 
-            "last_updated": "2019-10-08", 
+            "last_updated": "2019-10-10", 
             "title": "undelete", 
-            "version": "1.2.0"
+            "version": "1.2.3"
         }, 
         {
             "bundleid": "com.lint.videoflashindicator", 
