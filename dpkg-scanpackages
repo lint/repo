@@ -178,7 +178,7 @@ FILE:
 	
 	$tv{'Filename'}= "$pathprefix$fn";
 
-	$tv{'Depiction'} = "https://lint.github.io/repo/depictions/$p/";
+	$tv{'Depiction'} = "https://lint.github.io/repo/depictions/?p=$p";
 	$tv{'SileoDepiction'} = "https://lint.github.io/repo/depictions/$p/sileo.json";
 
 	$tv{'ModernDepiction'} = "https://lint.github.io/repo/depictions/$p/sileo.json";
