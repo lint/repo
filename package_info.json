@@ -46,6 +46,7 @@
             }, 
             "description": "See what those pesky \"[deleted]\" comments and posts were without leaving Reddit! \n\n<br/><br/> \n\nFor Reddit: \nTo use, tap the \"...\" button on comments or a self text post, and then tap on the new option called \"TF did that say?\". The comment/post will then be replaced with what it said when it was archived.\n\n<br/>\n\nFor Apollo:\nTap the small eye icon added to comments and self text posts.\n\n<br/>\n\nFor Narwhal: \nOpen the \"more\" menu on comments, tap the new button that says \"tf did that say?\" to activate. On self text posts, tap the \"...\" button and do the same thing.\n\n\n<br/><br/> \n\nComments and posts are retrieved using <a href=\"https://pushshift.io\">pushshift</a>.\n\n<br/><br/> \n\nA12 is supported.", 
             "last_updated": "2019-10-10", 
+            "source": "https://github.com/lint/TFDidThatSay", 
             "title": "undelete", 
             "version": "1.2.3"
         }, 
@@ -79,6 +80,13 @@
             "source": "https://github.com/lint/BruhYouGotPlayed", 
             "title": "BruhYouGotPlayed", 
             "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.khanacademynoaudio", 
+            "description": "Should prevent audio clips from playing in the Khan Academy app.", 
+            "last_updated": "2019-10-13", 
+            "title": "KhanAcademyNoAudio", 
+            "version": "0.0.1"
         }
     ], 
     "Template": {

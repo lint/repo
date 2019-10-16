@@ -36,6 +36,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.autoopencameraroll
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 
+Package: com.lint.khanacademynoaudio
+Version: 0.0.1
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.khanacademynoaudio_0.0.1_iphoneos-arm.deb
+Size: 2314
+Installed-Size: 136
+MD5sum: fd02fecbb8e68d9623b8013d98f08ca4
+SHA1: c3dbd59d6f58b1f30d4010659870d2e5b6dfcd84
+SHA256: 25f485f8f829919c8913216ea7681c78622dec5eab1c01158cbdfa64deec0eed
+Description: Disables [RNSound play: withCallback:] in Khan Academy.
+Name: KhanAcademyNoAudio
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.khanacademynoaudio
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.khanacademynoaudio/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.khanacademynoaudio/sileo.json
+
 Package: com.lint.newawardsforoldreddit
 Version: 1.2.0
 Section: Tweaks

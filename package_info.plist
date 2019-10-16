@@ -115,6 +115,8 @@ Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;push
 A12 is supported.</string>
 			<key>last_updated</key>
 			<string>2019-10-10</string>
+			<key>source</key>
+			<string>https://github.com/lint/TFDidThatSay</string>
 			<key>title</key>
 			<string>undelete</string>
 			<key>version</key>
@@ -179,6 +181,18 @@ A12 supported.</string>
 			<string>BruhYouGotPlayed</string>
 			<key>version</key>
 			<string>1.0.0</string>
+		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.khanacademynoaudio</string>
+			<key>description</key>
+			<string>Should prevent audio clips from playing in the Khan Academy app.</string>
+			<key>last_updated</key>
+			<string>2019-10-13</string>
+			<key>title</key>
+			<string>KhanAcademyNoAudio</string>
+			<key>version</key>
+			<string>0.0.1</string>
 		</dict>
 	</array>
 	<key>Template</key>
