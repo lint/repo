@@ -13,7 +13,7 @@ SHA256: 6b69224786624acdc09ef104a4a8c50d49c89d5e4b43e266e6b04eea83084081
 Description: Opens photos directly to the camera roll.
 Name: AutoOpenCameraRoll
 Author: lint
-Depiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.autoopencameraroll
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 
@@ -32,7 +32,7 @@ SHA256: c64922d11dcaecfc799e9239d71592d322aa0c3910025929665c17852905178f
 Description: Opens photos directly to the camera roll.
 Name: AutoOpenCameraRoll
 Author: lint
-Depiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.autoopencameraroll
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 
@@ -51,7 +51,7 @@ SHA256: ed981029711a61af32cf35fe91d3192073b9ad91c963efdc8c1c686ad6cb7f6a
 Description: silver & platinum for Reddit 3.13.1, Narwhal
 Name: NewAwardsForOldReddit
 Author: lint
-Depiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.newawardsforoldreddit
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
 
@@ -70,7 +70,7 @@ SHA256: 9805cabc4ccd70a66aa4be8b41ff32ad0fcda1b0a2f0ec90b179f0c3348b2a0a
 Description: Adds a "ctrl + shift" like function for selecting photos.
 Name: PhotoCtrl
 Author: lint <apieceoflint@protonmail.com>
-Depiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.photoctrl
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/sileo.json
 
@@ -89,7 +89,7 @@ SHA256: 71cdbbaa38f6c0e75f048900e8b9bf937aaf787105c87d6328cfdf74dd986eb0
 Description: Logs number of tabs opened in Safari.
 Name: TabTracker
 Author: lint
-Depiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.tabtracker
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/sileo.json
 
@@ -108,7 +108,7 @@ SHA256: a4630c1ad5b7d234db5d8f8377908806b4369c6d49202538aba9405491a6c4a8
 Description: See "[deleted]" comments and posts without leaving Reddit!
 Name: TFDidThatSay?
 Author: lint <apieceoflint@protonmail.com>
-Depiction: https://lint.github.io/repo/depictions/com.lint.undelete/
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 
@@ -127,7 +127,7 @@ SHA256: 2115790571d36632d0f0b29dc5e8bd8c8f541e190887c5a6eb76be1445ab1fd1
 Description: See "[deleted]" comments and posts without leaving Reddit!
 Name: TFDidThatSay?
 Author: lint <apieceoflint@protonmail.com>
-Depiction: https://lint.github.io/repo/depictions/com.lint.undelete/
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 
@@ -146,7 +146,7 @@ SHA256: 2cf4f0c9c6b5cf17f003b75899c740428588a7eb7aa2ed15d59ea52217643f75
 Description: See "[deleted]" comments and posts without leaving Reddit!
 Name: TFDidThatSay?
 Author: lint <apieceoflint@protonmail.com>
-Depiction: https://lint.github.io/repo/depictions/com.lint.undelete/
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 
@@ -165,7 +165,7 @@ SHA256: 83efbe475537f17bcf636d863294ab945f3c03cbb1e9395536af87a4ddf25d26
 Description: Restores deleted or removed comments on Reddit.
 Name: undelete
 Author: lint
-Depiction: https://lint.github.io/repo/depictions/com.lint.undelete/
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 
@@ -184,7 +184,7 @@ SHA256: d3a400dc09fd3e40f97d8af8d30ab42d366377b4594bdd8b87b4525b581bee86
 Description: See "[deleted]" comments and posts without leaving Reddit!
 Name: TFDidThatSay?
 Author: lint <apieceoflint@protonmail.com>
-Depiction: https://lint.github.io/repo/depictions/com.lint.undelete/
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 
@@ -203,7 +203,7 @@ SHA256: b7caeaa6ac2459d720d9bcb16143dd8b18afd0766da28e9d72eecf681214473e
 Description: Enables flash briefly when starting a recording.
 Name: VideoFlashIndicator
 Author: lint
-Depiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.videoflashindicator
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
 
@@ -222,7 +222,7 @@ SHA256: 395d51f88465fd1af9ae453bdd5ecdc5c837ec3e8f0fc59b38a4cc2217b4f91c
 Description: Enables flash briefly when starting a video.
 Name: VideoFlashIndicator
 Author: lint
-Depiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.videoflashindicator
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
 
