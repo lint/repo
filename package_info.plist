@@ -196,6 +196,18 @@ A12 supported.</string>
 			<key>version</key>
 			<string>0.0.1</string>
 		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.redditdarkmodecustomarrows</string>
+			<key>description</key>
+			<string>Enables custom subreddit upvote and downvote arrows for the official Reddit app when dark mode is enabled.</string>
+			<key>last_updated</key>
+			<string>2019-10-24</string>
+			<key>title</key>
+			<string>RedditDarkModeCustomEnabled</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
 	</array>
 	<key>Template</key>
 	<dict>

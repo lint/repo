@@ -88,6 +88,13 @@
             "last_updated": "2019-10-13", 
             "title": "KhanAcademyNoAudio", 
             "version": "0.0.1"
+        }, 
+        {
+            "bundleid": "com.lint.redditdarkmodecustomarrows", 
+            "description": "Enables custom subreddit upvote and downvote arrows for the official Reddit app when dark mode is enabled.", 
+            "last_updated": "2019-10-24", 
+            "title": "RedditDarkModeCustomEnabled", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {

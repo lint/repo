@@ -93,6 +93,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.photoctrl
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/sileo.json
 
+Package: com.lint.redditdarkmodecustomarrows
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.redditdarkmodecustomarrows_1.0.0_iphoneos-arm.deb
+Size: 2436
+Installed-Size: 136
+MD5sum: 59a02bf5680846ba77d80a8e743f6aad
+SHA1: b938b6c00c861ad97a61afb4224e3529f29dffff
+SHA256: 6e8b13d2f0f36e926fa8b36486e843d9b8585e423f655fe7c917cb513a932fa3
+Description: Enables custom subreddit upvote and downvote arrows when darkmode is enabled in the offical Reddit app.
+Name: RedditDarkModeCustomArrows
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.redditdarkmodecustomarrows
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.redditdarkmodecustomarrows/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.redditdarkmodecustomarrows/sileo.json
+
 Package: com.lint.tabtracker
 Version: 1.0
 Section: Tweaks
