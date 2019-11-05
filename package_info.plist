@@ -88,6 +88,8 @@
 				<string>Add option to enable the eye for only deleted comments in Apollo, better fix for Apollo UI, reimplement option in Narwhal menu</string>
 				<key>1.2.4</key>
 				<string>Added support for Reddit 4.45.0 update</string>
+				<key>1.2.5</key>
+				<string>Added Reddit support for ios 10 and several other app versions (4.21 -&gt;)</string>
 			</dict>
 			<key>description</key>
 			<string>See what those pesky "[deleted]" comments and posts were without leaving Reddit! 
@@ -116,13 +118,13 @@ Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;push
 
 A12 is supported.</string>
 			<key>last_updated</key>
-			<string>2019-10-22</string>
+			<string>2019-11-05</string>
 			<key>source</key>
 			<string>https://github.com/lint/TFDidThatSay</string>
 			<key>title</key>
 			<string>undelete</string>
 			<key>version</key>
-			<string>1.2.4</string>
+			<string>1.2.5</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>
