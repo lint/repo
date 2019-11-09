@@ -44,13 +44,16 @@
                 "1.2.2": "Bug fixes", 
                 "1.2.3": "Add option to enable the eye for only deleted comments in Apollo, better fix for Apollo UI, reimplement option in Narwhal menu", 
                 "1.2.4": "Added support for Reddit 4.45.0 update", 
-                "1.2.5": "Added Reddit support for ios 10 and several other app versions (4.21 ->)"
+                "1.2.5": "Added Reddit support for ios 10 and several other app versions (4.21 ->)", 
+                "1.2.6": "Added more Reddit support (4.0 ->) for some reason"
             }, 
             "description": "See what those pesky \"[deleted]\" comments and posts were without leaving Reddit! \n\n<br/><br/> \n\nFor Reddit: \nTo use, tap the \"...\" button on comments or a self text post, and then tap on the new option called \"TF did that say?\". The comment/post will then be replaced with what it said when it was archived.\n\n<br/>\n\nFor Apollo:\nTap the small eye icon added to comments and self text posts.\n\n<br/>\n\nFor Narwhal: \nOpen the \"more\" menu on comments, tap the new button that says \"tf did that say?\" to activate. On self text posts, tap the \"...\" button and do the same thing.\n\n\n<br/><br/> \n\nComments and posts are retrieved using <a href=\"https://pushshift.io\">pushshift</a>.\n\n<br/><br/> \n\nA12 is supported.", 
-            "last_updated": "2019-11-05", 
+            "last_updated": "2019-11-09", 
+            "max_ios": "12", 
+            "min_ios": "10", 
             "source": "https://github.com/lint/TFDidThatSay", 
             "title": "undelete", 
-            "version": "1.2.5"
+            "version": "1.2.6"
         }, 
         {
             "bundleid": "com.lint.videoflashindicator", 

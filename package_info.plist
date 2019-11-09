@@ -90,6 +90,8 @@
 				<string>Added support for Reddit 4.45.0 update</string>
 				<key>1.2.5</key>
 				<string>Added Reddit support for ios 10 and several other app versions (4.21 -&gt;)</string>
+				<key>1.2.6</key>
+				<string>Added more Reddit support (4.0 -&gt;) for some reason</string>
 			</dict>
 			<key>description</key>
 			<string>See what those pesky "[deleted]" comments and posts were without leaving Reddit! 
@@ -118,13 +120,17 @@ Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;push
 
 A12 is supported.</string>
 			<key>last_updated</key>
-			<string>2019-11-05</string>
+			<string>2019-11-09</string>
+			<key>max_ios</key>
+			<string>12</string>
+			<key>min_ios</key>
+			<string>10</string>
 			<key>source</key>
 			<string>https://github.com/lint/TFDidThatSay</string>
 			<key>title</key>
 			<string>undelete</string>
 			<key>version</key>
-			<string>1.2.5</string>
+			<string>1.2.6</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>
