@@ -79,19 +79,21 @@
 				<key>1.1.1</key>
 				<string>Bug fixes</string>
 				<key>1.2.0</key>
-				<string>Add Apollo &amp; Narwhal support, fixed crash when empty data was received from pushshift.</string>
+				<string>Added Apollo &amp; Narwhal support, fixed crash when empty data was received from pushshift.</string>
 				<key>1.2.1</key>
-				<string>Fix post crash on Reddit 4.44.0</string>
+				<string>Fixed post crash on Reddit 4.44.0</string>
 				<key>1.2.2</key>
 				<string>Bug fixes</string>
 				<key>1.2.3</key>
-				<string>Add option to enable the eye for only deleted comments in Apollo, better fix for Apollo UI, reimplement option in Narwhal menu</string>
+				<string>Added option to enable the eye for only deleted comments in Apollo, better fix for Apollo UI, reimplement option in Narwhal menu</string>
 				<key>1.2.4</key>
 				<string>Added support for Reddit 4.45.0 update</string>
 				<key>1.2.5</key>
 				<string>Added Reddit support for ios 10 and several other app versions (4.21 -&gt;)</string>
 				<key>1.2.6</key>
 				<string>Added more Reddit support (4.0 -&gt;) for some reason</string>
+				<key>1.2.7</key>
+				<string>Added request timeout option, switch to Cephei prefs</string>
 			</dict>
 			<key>description</key>
 			<string>See what those pesky "[deleted]" comments and posts were without leaving Reddit! 
@@ -120,7 +122,7 @@ Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;push
 
 A12 is supported.</string>
 			<key>last_updated</key>
-			<string>2019-11-09</string>
+			<string>2019-11-10</string>
 			<key>max_ios</key>
 			<string>12</string>
 			<key>min_ios</key>
@@ -130,7 +132,7 @@ A12 is supported.</string>
 			<key>title</key>
 			<string>undelete</string>
 			<key>version</key>
-			<string>1.2.6</string>
+			<string>1.2.7</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>
