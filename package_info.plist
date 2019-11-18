@@ -218,6 +218,22 @@ A12 supported.</string>
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.reachablecc</string>
+			<key>description</key>
+			<string>Presents the control center when reachability  is toggled.</string>
+			<key>last_updated</key>
+			<string>2019-11-17</string>
+			<key>max_ios</key>
+			<string>12.4</string>
+			<key>source</key>
+			<string>https://github.com/lint/ReachableCC</string>
+			<key>title</key>
+			<string>ReachableCC</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
 	</array>
 	<key>Template</key>
 	<dict>

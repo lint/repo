@@ -100,6 +100,15 @@
             "last_updated": "2019-10-24", 
             "title": "RedditDarkModeCustomEnabled", 
             "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.reachablecc", 
+            "description": "Presents the control center when reachability  is toggled.", 
+            "last_updated": "2019-11-17", 
+            "max_ios": "12.4", 
+            "source": "https://github.com/lint/ReachableCC", 
+            "title": "ReachableCC", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {

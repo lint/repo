@@ -93,6 +93,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.photoctrl
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/sileo.json
 
+Package: com.lint.reachablecc
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.reachablecc_1.0.0_iphoneos-arm.deb
+Size: 2502
+Installed-Size: 136
+MD5sum: 13feae50b89210f6b1b55794b861b765
+SHA1: 7bf8ebfaa2f39b5ff0bccca325f4893db37a512d
+SHA256: 13ee91603b118df47fe95882fd3e51bd3d9a8db52a2b6b38c05d70b6dfbbf933
+Description: Opens the control center when toggling reachability
+Name: ReachableCC
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.reachablecc
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.reachablecc/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.reachablecc/sileo.json
+
 Package: com.lint.redditdarkmodecustomarrows
 Version: 1.0.0
 Section: Tweaks
