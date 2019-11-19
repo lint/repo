@@ -103,11 +103,19 @@
         }, 
         {
             "bundleid": "com.lint.reachablecc", 
-            "description": "Presents the control center when reachability  is toggled.", 
+            "description": "Presents the control center when reachability  is toggled. Reachability needs to be enabled in settings for this to work. Only works if you have a home button.", 
             "last_updated": "2019-11-17", 
             "max_ios": "12.4", 
             "source": "https://github.com/lint/ReachableCC", 
             "title": "ReachableCC", 
+            "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.ntarrows", 
+            "description": "Allows you to hold the arrow keys to move the cursor in New Term.", 
+            "last_updated": "2019-11-19", 
+            "source": "https://github.com/lint/NewTermArrows", 
+            "title": "NewTermArrows", 
             "version": "1.0.0"
         }
     ], 

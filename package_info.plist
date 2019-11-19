@@ -222,7 +222,7 @@ A12 supported.</string>
 			<key>bundleid</key>
 			<string>com.lint.reachablecc</string>
 			<key>description</key>
-			<string>Presents the control center when reachability  is toggled.</string>
+			<string>Presents the control center when reachability  is toggled. Reachability needs to be enabled in settings for this to work. Only works if you have a home button.</string>
 			<key>last_updated</key>
 			<string>2019-11-17</string>
 			<key>max_ios</key>
@@ -231,6 +231,20 @@ A12 supported.</string>
 			<string>https://github.com/lint/ReachableCC</string>
 			<key>title</key>
 			<string>ReachableCC</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.ntarrows</string>
+			<key>description</key>
+			<string>Allows you to hold the arrow keys to move the cursor in New Term.</string>
+			<key>last_updated</key>
+			<string>2019-11-19</string>
+			<key>source</key>
+			<string>https://github.com/lint/NewTermArrows</string>
+			<key>title</key>
+			<string>NewTermArrows</string>
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>

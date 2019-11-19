@@ -74,6 +74,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.newawardsforoldred
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
 
+Package: com.lint.ntarrows
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.ntarrows_1.0.0_iphoneos-arm.deb
+Size: 5098
+Installed-Size: 136
+MD5sum: 53ee98f1554e9e850f050b323646821e
+SHA1: d9548a6f7d8ec3b279f23f33248172f3f8188ecd
+SHA256: 5cc183743f4fbe5052a0e5a507075d1bb2dc898a51c660047917a6d72b7ae42e
+Description: Allows you to hold down the arrow keys to move the cursor in New Term.
+Name: NewTermArrows
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.ntarrows
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.ntarrows/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.ntarrows/sileo.json
+
 Package: com.lint.photoctrl
 Version: 1.0.1
 Section: Tweaks
