@@ -117,6 +117,13 @@
             "source": "https://github.com/lint/NewTermArrows", 
             "title": "NewTermArrows", 
             "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.colorable", 
+            "description": "An AlienBlue themer.", 
+            "last_updated": "2019-12-17", 
+            "title": "ColorABle", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {
