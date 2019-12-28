@@ -1,0 +1,380 @@
+Package: com.lint.autoopencameraroll
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.autoopencameraroll_1.0.0_iphoneos-arm.deb
+Size: 3294
+Installed-Size: 120
+MD5sum: 4f1e2a64ba901ced6860df5000c5c062
+SHA1: 14835133934a9764daf627ae1c577f7c8fe2ebd9
+SHA256: 6b69224786624acdc09ef104a4a8c50d49c89d5e4b43e266e6b04eea83084081
+Description: Opens photos directly to the camera roll.
+Name: AutoOpenCameraRoll
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.autoopencameraroll
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
+
+Package: com.lint.autoopencameraroll
+Version: 1.0.2
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.autoopencameraroll_1.0.2_iphoneos-arm.deb
+Size: 8102
+Installed-Size: 132
+MD5sum: 99efcda42f7b8cf95ebec1ac71242722
+SHA1: 1da03729b65bd7d6a7b058ae41d047f1e0f5d3d9
+SHA256: c64922d11dcaecfc799e9239d71592d322aa0c3910025929665c17852905178f
+Description: Opens photos directly to the camera roll.
+Name: AutoOpenCameraRoll
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.autoopencameraroll
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
+
+Package: com.lint.khanacademynoaudio
+Version: 0.0.1
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.khanacademynoaudio_0.0.1_iphoneos-arm.deb
+Size: 2314
+Installed-Size: 136
+MD5sum: fd02fecbb8e68d9623b8013d98f08ca4
+SHA1: c3dbd59d6f58b1f30d4010659870d2e5b6dfcd84
+SHA256: 25f485f8f829919c8913216ea7681c78622dec5eab1c01158cbdfa64deec0eed
+Description: Disables [RNSound play: withCallback:] in Khan Academy.
+Name: KhanAcademyNoAudio
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.khanacademynoaudio
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.khanacademynoaudio/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.khanacademynoaudio/sileo.json
+
+Package: com.lint.newawardsforoldreddit
+Version: 1.2.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.newawardsforoldreddit_1.2.0_iphoneos-arm.deb
+Size: 88800
+Installed-Size: 600
+MD5sum: 39a00c560f139878784199359ab53ab8
+SHA1: 8a113626b38d58390426f912e719660159698166
+SHA256: ed981029711a61af32cf35fe91d3192073b9ad91c963efdc8c1c686ad6cb7f6a
+Description: silver & platinum for Reddit 3.13.1, Narwhal
+Name: NewAwardsForOldReddit
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.newawardsforoldreddit
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
+
+Package: com.lint.ntarrows
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.ntarrows_1.0.0_iphoneos-arm.deb
+Size: 5098
+Installed-Size: 136
+MD5sum: 53ee98f1554e9e850f050b323646821e
+SHA1: d9548a6f7d8ec3b279f23f33248172f3f8188ecd
+SHA256: 5cc183743f4fbe5052a0e5a507075d1bb2dc898a51c660047917a6d72b7ae42e
+Description: Allows you to hold down the arrow keys to move the cursor in New Term.
+Name: NewTermArrows
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.ntarrows
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.ntarrows/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.ntarrows/sileo.json
+
+Package: com.lint.photoctrl
+Version: 1.0.1
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.photoctrl_1.0.1_iphoneos-arm.deb
+Size: 14544
+Installed-Size: 112
+MD5sum: 9aded3f0d6fed635f00e055fb6277541
+SHA1: 5215653fe3fa9716e8bc9a808dc32347d9ec3b3a
+SHA256: 9805cabc4ccd70a66aa4be8b41ff32ad0fcda1b0a2f0ec90b179f0c3348b2a0a
+Description: Adds a "ctrl + shift" like function for selecting photos.
+Name: PhotoCtrl
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.photoctrl
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/sileo.json
+
+Package: com.lint.reachablecc
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.reachablecc_1.0.0_iphoneos-arm.deb
+Size: 2502
+Installed-Size: 136
+MD5sum: 13feae50b89210f6b1b55794b861b765
+SHA1: 7bf8ebfaa2f39b5ff0bccca325f4893db37a512d
+SHA256: 13ee91603b118df47fe95882fd3e51bd3d9a8db52a2b6b38c05d70b6dfbbf933
+Description: Opens the control center when toggling reachability
+Name: ReachableCC
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.reachablecc
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.reachablecc/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.reachablecc/sileo.json
+
+Package: com.lint.redditdarkmodecustomarrows
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.redditdarkmodecustomarrows_1.0.0_iphoneos-arm.deb
+Size: 2436
+Installed-Size: 136
+MD5sum: 59a02bf5680846ba77d80a8e743f6aad
+SHA1: b938b6c00c861ad97a61afb4224e3529f29dffff
+SHA256: 6e8b13d2f0f36e926fa8b36486e843d9b8585e423f655fe7c917cb513a932fa3
+Description: Enables custom subreddit upvote and downvote arrows when darkmode is enabled in the offical Reddit app.
+Name: RedditDarkModeCustomArrows
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.redditdarkmodecustomarrows
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.redditdarkmodecustomarrows/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.redditdarkmodecustomarrows/sileo.json
+
+Package: com.lint.tabtracker
+Version: 1.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.tabtracker_1.0_iphoneos-arm.deb
+Size: 4334
+Installed-Size: 168
+MD5sum: 27a33692bb82de31d069f07336ebe429
+SHA1: 4e431a4812b5568394bff2f1c89efd31301fd6bc
+SHA256: 71cdbbaa38f6c0e75f048900e8b9bf937aaf787105c87d6328cfdf74dd986eb0
+Description: Logs number of tabs opened in Safari.
+Name: TabTracker
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.tabtracker
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.tabtracker/sileo.json
+
+Package: com.lint.undelete
+Version: 1.2.2
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.2.2_iphoneos-arm.deb
+Size: 65644
+Installed-Size: 284
+MD5sum: 584b794ab8f1d48a025e1db644b2ba05
+SHA1: b2dbd904762b98ff0f9f618709b1c6f09b5ced63
+SHA256: a4630c1ad5b7d234db5d8f8377908806b4369c6d49202538aba9405491a6c4a8
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.undelete
+Version: 1.2.6
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.2.6_iphoneos-arm.deb
+Size: 36506
+Installed-Size: 380
+MD5sum: 2e3dbd9047e6aa72d1688dfd768d6f16
+SHA1: 2e4f3986465c575b844200004b93f1677517fa49
+SHA256: 58c0e79cbce1695d079c4a611f906234a55128c942cc1c82d7a9aa3e8000c0f5
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.undelete
+Version: 1.2.3
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.2.3_iphoneos-arm.deb
+Size: 32664
+Installed-Size: 344
+MD5sum: 9c9f44d14feca668d15cdbf703c629e4
+SHA1: a0537af9f06a940482b8e9b67768c45c28d8b0be
+SHA256: 2115790571d36632d0f0b29dc5e8bd8c8f541e190887c5a6eb76be1445ab1fd1
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.undelete
+Version: 1.2.7
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.2.7_iphoneos-arm.deb
+Size: 37636
+Installed-Size: 380
+MD5sum: b882f050cbe22d105d326ec1ad053bdd
+SHA1: 7ed9978e5bd9cd681bd8374a88382eefff8b3028
+SHA256: d105baefb748c657943af9ae265167377c6eac65e16936a8327cddb7c7f208ae
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.undelete
+Version: 1.2.0
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.2.0_iphoneos-arm.deb
+Size: 30980
+Installed-Size: 184
+MD5sum: 41258a84513891ae50db670f76dbdc0c
+SHA1: d823f146a7ca5e74c5c3ff804d0c9fcf3c0073bb
+SHA256: 2cf4f0c9c6b5cf17f003b75899c740428588a7eb7aa2ed15d59ea52217643f75
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.undelete
+Version: 1.2.4
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.2.4_iphoneos-arm.deb
+Size: 32952
+Installed-Size: 344
+MD5sum: 647643792eee5ab27f9720f470d9e923
+SHA1: c689c19cc0e5c7aaa5654229793f09bbdf52faff
+SHA256: 8dea4f4bf563a46521ecd56eb3baeb1e2c6e6ba65d55f4f0aba395be367928be
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.undelete
+Version: 1.0.2
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.0.2_iphoneos-arm.deb
+Size: 7360
+Installed-Size: 120
+MD5sum: e0442db859c4cf5625977f00091eb57e
+SHA1: 6017f7d0b30b2010b94b4e926b3fe8f6d3e0e4ba
+SHA256: 83efbe475537f17bcf636d863294ab945f3c03cbb1e9395536af87a4ddf25d26
+Description: Restores deleted or removed comments on Reddit.
+Name: undelete
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.undelete
+Version: 1.2.5
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.2.5_iphoneos-arm.deb
+Size: 35026
+Installed-Size: 344
+MD5sum: 3418f9584f2c81752c5061ef1ffee585
+SHA1: 97cad75848165fc21e4aae1a98341132ecc90b50
+SHA256: f30f9416fdc2bc4a30b4779d3214027e04a8c83a87c1528b5cfd5c4eb31de026
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.undelete
+Version: 1.1.1
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.1.1_iphoneos-arm.deb
+Size: 22868
+Installed-Size: 216
+MD5sum: 3f3508fd09e4da587d7b9910d9cee11a
+SHA1: 04ee3067e0d71b6dfd5ff802157044909159daff
+SHA256: d3a400dc09fd3e40f97d8af8d30ab42d366377b4594bdd8b87b4525b581bee86
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.videoflashindicator
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.videoflashindicator_1.0.0-1_iphoneos-arm.deb
+Size: 14958
+Installed-Size: 344
+MD5sum: e31db1d6145709dbb0fc0cfa9c83abf3
+SHA1: 21939aa3e4753a9e5becf2bda505cb8ff1fdf5b7
+SHA256: b7caeaa6ac2459d720d9bcb16143dd8b18afd0766da28e9d72eecf681214473e
+Description: Enables flash briefly when starting a recording.
+Name: VideoFlashIndicator
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.videoflashindicator
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
+
+Package: com.lint.videoflashindicator
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.videoflashindicator_1.0.0_iphoneos-arm.deb
+Size: 12860
+Installed-Size: 368
+MD5sum: da20a229e352a11a8a63254df4a3cc6a
+SHA1: cf67cd01c2f439d4e1317064b27c47029a71b5d5
+SHA256: 395d51f88465fd1af9ae453bdd5ecdc5c837ec3e8f0fc59b38a4cc2217b4f91c
+Description: Enables flash briefly when starting a video.
+Name: VideoFlashIndicator
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.videoflashindicator
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
+
