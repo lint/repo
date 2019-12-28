@@ -1,119 +1,119 @@
 <html>
 <head>
-    <title>{{ title }}</title>
-    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
-    <base target="_blank"/>
-    <link rel="stylesheet" href="../../assets/ios7.min.css">
-    <script src="../../assets/ios7.min.js"></script>
+	<title>{{ title }}</title>
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
+	<base target="_blank"/>
+	<link rel="stylesheet" href="../../assets/ios7.min.css">
+	<script src="../../assets/ios7.min.js"></script>
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125459870-3"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-125459870-3');
-    </script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-125459870-3"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-125459870-3');
+	</script>
 
 
 
 </head>
 
 <body>
-    <main id="content">
+	<main id="content">
 {% if False %}
-        <h2 role="header">Compatibility</h2>
-        <ul>
-            <li>
-                <div
-                    {% if min_ios %}
-                        data-min-ios="{{ min_ios }}"
-                    {% endif %}
-                    {% if max_ios %}
-                        data-max-ios="{{ max_ios }}"
-                    {% endif %}
-                    {% if strict_range %}
-                        data-unsupported
-                    {% endif %}
-                    id="prerequisite">
-                    <p id="pt">
-                        {% if min_ios and max_ios %}
-                            Compatible with iOS {{ min_ios }} to {{ max_ios }}
-                        {% elif min_ios %}
-                            Compatible with iOS {{ min_ios }} +
-                        {% endif %}
-                    </p>
-                </div>
-            </li>
-        </ul>
+		<h2 role="header">Compatibility</h2>
+		<ul>
+			<li>
+				<div
+					{% if min_ios %}
+						data-min-ios="{{ min_ios }}"
+					{% endif %}
+					{% if max_ios %}
+						data-max-ios="{{ max_ios }}"
+					{% endif %}
+					{% if strict_range %}
+						data-unsupported
+					{% endif %}
+					id="prerequisite">
+					<p id="pt">
+						{% if min_ios and max_ios %}
+							Compatible with iOS {{ min_ios }} to {{ max_ios }}
+						{% elif min_ios %}
+							Compatible with iOS {{ min_ios }} +
+						{% endif %}
+					</p>
+				</div>
+			</li>
+		</ul>
 {% endif %}
-        <script src="../../assets/iosver.js"></script>
-        <h2 role="header">Description</h2>
-        <ul>
-            <li>
-                {{ description }}
-            </li>
-        </ul>
-        {% if changelog %}
-            <h2 role="header">Latest Changes</h2>
-            <ul>
-                {% for change in sortedChangelog %}
-                    <li>
-                        <p><strong>{{ change }}</strong></p>
+		<script src="../../assets/iosver.js"></script>
+		<h2 role="header">Description</h2>
+		<ul>
+			<li>
+				{{ description }}
+			</li>
+		</ul>
+		{% if changelog %}
+			<h2 role="header">Latest Changes</h2>
+			<ul>
+				{% for change in sortedChangelog %}
+					<li>
+						<p><strong>{{ change }}</strong></p>
 						<br/>
 						<p>{{ changelog[change] }}</p>
 						<br/>
-                    </li>
-                {% endfor %}
-            </ul>
-        {% endif %}
-        <h2 role="header">Package Information</h2>
-        <ul>
-		    <li>
+					</li>
+				{% endfor %}
+			</ul>
+		{% endif %}
+		<h2 role="header">Package Information</h2>
+		<ul>
+			<li>
 				<p>
 					Bundle ID 
 					<span class="value" style="color: #777; float: right; text-align: right; margin-left: 8px;">{{ bundleid }}</span>
 				</p>
-            </li>
-            <li>
+			</li>
+			<li>
 				<p>
 					Version 
 					<span class="value" style="color: #777; float: right; text-align: right; margin-left: 8px;">{{ version }}</span>
 				</p>
-            </li>
-            <li>
+			</li>
+			<li>
 				<p>
 					Last Updated 
 					<span class="value" style="color: #777; float: right; text-align: right; margin-left: 8px;">{{ last_updated }}</span>
 				</p>
-            </li>
-            <li>
+			</li>
+			<li>
 				<p>
 					iOS Compatibility
 					<span class="value" style="color: #777; float: right; text-align: right; margin-left: 8px;">{% if min_ios and not max_ios %}  >= {{ min_ios }} {% endif %} {% if not min_ios and max_ios %} <= {{ max_ios }} {% endif %} {% if min_ios and max_ios %} {{ min_ios }} to {{ max_ios }} {% endif %} {% if not min_ios and not max_ios %} N/A {% endif %}</span>
 				</p>
-            </li>
-            {% if source %}
+			</li>
+			{% if source %}
 			<li>
 					<p>
 						Source Code
 						<span class="value" style="color: #777; float: right; text-align: right; margin-left: 8px;"><a href="{{ source }}">{{ source }}</a></span>
 					</p>
-                
+				
 			</li>
-            {% endif %}
-        </ul>
-        <h2 role="header">Contact Information</h2>
-        <ul>
+			{% endif %}
+		</ul>
+		<h2 role="header">Contact Information</h2>
+		<ul>
 			<li>
-                <a href="https://old.reddit.com/message/compose?to=apieceoflint&subject=&message=">Message me on Reddit</a>
-			</li>
-			<li>
-                <a href="https://github.com/lint">GitHub</a>
+				<a href="https://old.reddit.com/message/compose?to=apieceoflint&subject=&message=">Message me on Reddit</a>
 			</li>
 			<li>
-                <a href="mailto:apieceoflint@protonmail.com">Send me an email</a>
+				<a href="https://github.com/lint">GitHub</a>
+			</li>
+			<li>
+				<a href="mailto:apieceoflint@protonmail.com">Send me an email</a>
 			</li>
 		</ul>
-    </main>
+	</main>
 </body>
 </html>
