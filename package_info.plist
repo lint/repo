@@ -248,6 +248,18 @@ A12 supported.</string>
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.colorable</string>
+			<key>description</key>
+			<string>An AlienBlue themer.</string>
+			<key>last_updated</key>
+			<string>2019-12-17</string>
+			<key>title</key>
+			<string>ColorABle</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
 	</array>
 	<key>Template</key>
 	<dict>
