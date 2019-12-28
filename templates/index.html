@@ -58,7 +58,10 @@
             <ul>
                 {% for change in sortedChangelog %}
                     <li>
-                        <p>{{ change }} - {{ changelog[change] }}</p>
+                        <p><strong>{{ change }}</strong></p>
+						<br/>
+						<p>{{ changelog[change] }}</p>
+						<br/>
                     </li>
                 {% endfor %}
             </ul>
@@ -68,32 +71,32 @@
 		    <li>
 				<p>
 					Bundle ID 
-					<span class="value">{{ bundleid }}</span>
+					<span class="value" style="color: #777; float: right; text-align: right; margin-left: 8px;">{{ bundleid }}</span>
 				</p>
             </li>
             <li>
 				<p>
 					Version 
-					<span class="value">{{ version }}</span>
+					<span class="value" style="color: #777; float: right; text-align: right; margin-left: 8px;">{{ version }}</span>
 				</p>
             </li>
             <li>
 				<p>
 					Last Updated 
-					<span class="value">{{ last_updated }}</span>
+					<span class="value" style="color: #777; float: right; text-align: right; margin-left: 8px;">{{ last_updated }}</span>
 				</p>
             </li>
             <li>
 				<p>
 					iOS Compatibility
-					<span class="value">{% if min_ios and not max_ios %}  >= {{ min_ios }} {% endif %} {% if not min_ios and max_ios %} <= {{ max_ios }} {% endif %} {% if min_ios and max_ios %} {{ min_ios }} to {{ max_ios }} {% endif %} {% if not min_ios and not max_ios %} N/A {% endif %}</span>
+					<span class="value" style="color: #777; float: right; text-align: right; margin-left: 8px;">{% if min_ios and not max_ios %}  >= {{ min_ios }} {% endif %} {% if not min_ios and max_ios %} <= {{ max_ios }} {% endif %} {% if min_ios and max_ios %} {{ min_ios }} to {{ max_ios }} {% endif %} {% if not min_ios and not max_ios %} N/A {% endif %}</span>
 				</p>
             </li>
             {% if source %}
 			<li>
 					<p>
 						Source Code
-						<span class="value"><a href="{{ source }}">{{ source }}</a></span>
+						<span class="value" style="color: #777; float: right; text-align: right; margin-left: 8px;"><a href="{{ source }}">{{ source }}</a></span>
 					</p>
                 
 			</li>
