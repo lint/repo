@@ -22,18 +22,20 @@ for package in packages["Packages"]:
 	
 	if not os.path.isdir(packagePath):
 		os.mkdir(packagePath)
-		
-		
-	title = package.get("title")
+	
+	title = package.get("title", 0)
+    bundleid = package.get("bundleid", 0)
 	description = re.sub(r'\s+', ' ', package.get("description"))
-	changelog = package.get("changelog")
-	min_ios = package.get("min_ios",0)
-	max_ios = package.get("max_ios",0)
-	strict_range = package.get("strict_range",0)
-	debug = package.get("debug",0)
-	version = package.get("version",0)
-	last_updated = package.get("last_updated",0)
-	source = package.get("source",0)
+	changelog = package.get("changelog", 0)
+	min_ios = package.get("min_ios", 0)
+	max_ios = package.get("max_ios", 0)
+	strict_range = package.get("strict_range", 0)
+	debug = package.get("debug", 0)
+	version = package.get("version", 0)
+	last_updated = package.get("last_updated", 0)
+	source = package.get("source", 0)
+    
+    
 	try:
 		sortedChangelog = sorted(changelog,reverse = True)
 	except:
@@ -43,6 +45,7 @@ for package in packages["Packages"]:
 	with open(os.path.join(packagePath, "index.html"), 'w') as f:
 		f.write(template.render(
 			title = title,
+            bundleid = bundleid,
 			description = description,
 			changelog = changelog,
 			sortedChangelog = sortedChangelog,

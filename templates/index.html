@@ -65,19 +65,38 @@
         {% endif %}
         <h2 role="header">Package Information</h2>
         <ul>
-            <li>
-                Version: {{ version }}
+		    <li>
+				<p>
+					Bundle ID 
+					<span class="value">{{ bundleid }}</span>
+				</p>
             </li>
             <li>
-                Last Updated: {{ last_updated }}
+				<p>
+					Version 
+					<span class="value">{{ version }}</span>
+				</p>
             </li>
             <li>
-                Compatibility: {% if min_ios and not max_ios %}  >= {{ min_ios }} {% endif %} {% if not min_ios and max_ios %} <= {{ max_ios }} {% endif %} {% if min_ios and max_ios %} {{ min_ios }} to {{ max_ios }} {% endif %} {% if not min_ios and not max_ios %} N/A {% endif %}
+				<p>
+					Last Updated 
+					<span class="value">{{ last_updated }}</span>
+				</p>
+            </li>
+            <li>
+				<p>
+					iOS Compatibility
+					<span class="value">{% if min_ios and not max_ios %}  >= {{ min_ios }} {% endif %} {% if not min_ios and max_ios %} <= {{ max_ios }} {% endif %} {% if min_ios and max_ios %} {{ min_ios }} to {{ max_ios }} {% endif %} {% if not min_ios and not max_ios %} N/A {% endif %}</span>
+				</p>
             </li>
             {% if source %}
-              <li>
-                <a href="{{ source }}">Source Code</a>
-              </li>
+			<li>
+					<p>
+						Source Code
+						<span class="value"><a href="{{ source }}">{{ source }}</a></span>
+					</p>
+                
+			</li>
             {% endif %}
         </ul>
         <h2 role="header">Contact Information</h2>
