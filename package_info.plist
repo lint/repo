@@ -94,6 +94,24 @@
 				<string>Added more Reddit support (4.0 -&gt;) for some reason</string>
 				<key>1.2.7</key>
 				<string>Added request timeout option, switch to Cephei prefs</string>
+				<key>1.3.0</key>
+				<string>Added support for Alien Blue, Antenna, BaconReader, Beam, and Slide
+
+Removed Cephei, and other preference changes
+
+Added option to only show button on deleted comments/posts for every supported app
+
+Fixed Reddit crashes
+
+Moved Apollo button to action menu
+
+Fixed Apollo author resetting bug 
+
+</string>
+				<key>1.3.1</key>
+				<string>Fixed Apollo crash
+
+Added option for Apollo to have button on the comment rather than in the menu</string>
 			</dict>
 			<key>description</key>
 			<string>See what those pesky "[deleted]" comments and posts were without leaving Reddit! 
@@ -122,7 +140,7 @@ Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;push
 
 A12 is supported.</string>
 			<key>last_updated</key>
-			<string>2020-10-01</string>
+			<string>2020-01-11</string>
 			<key>max_ios</key>
 			<string>13</string>
 			<key>min_ios</key>
@@ -132,7 +150,7 @@ A12 is supported.</string>
 			<key>title</key>
 			<string>undelete</string>
 			<key>version</key>
-			<string>1.3.0</string>
+			<string>1.3.1</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>
