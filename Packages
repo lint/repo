@@ -36,6 +36,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.autoopencameraroll
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 
+Package: com.lint.colorable
+Version: 1.1.1
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Filename: debs/com.lint.colorable_1.1.1_iphoneos-arm.deb
+Size: 27956
+Installed-Size: 272
+MD5sum: 859077eeafd02de50f8e301b5e505881
+SHA1: 8c6a48245aff6108abce9f9990dbb592051c342f
+SHA256: 72f33ead48b4ae93cf3ef5300522d7310cf7d39e7d0ba5cd6e1b06c6a9a84288
+Description: Colors Alien Blue
+Name: ColorABle
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.colorable
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.colorable/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.colorable/sileo.json
+
 Package: com.lint.khanacademynoaudio
 Version: 0.0.1
 Section: Tweaks

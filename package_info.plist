@@ -274,13 +274,13 @@ A12 supported.</string>
 			<key>bundleid</key>
 			<string>com.lint.colorable</string>
 			<key>description</key>
-			<string>An AlienBlue themer.</string>
+			<string>An AlienBlue color themer.</string>
 			<key>last_updated</key>
-			<string>2019-12-17</string>
+			<string>2020-26-02</string>
 			<key>title</key>
 			<string>ColorABle</string>
 			<key>version</key>
-			<string>1.0.0</string>
+			<string>1.1.1</string>
 		</dict>
 	</array>
 	<key>Template</key>
