@@ -277,6 +277,8 @@ A12 supported.</string>
 			<string>An AlienBlue color themer.</string>
 			<key>last_updated</key>
 			<string>2020-26-02</string>
+			<key>source</key>
+			<string>https://github.com/lint/colorABle</string>
 			<key>title</key>
 			<string>ColorABle</string>
 			<key>version</key>
