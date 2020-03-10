@@ -274,7 +274,11 @@ A12 supported.</string>
 			<key>bundleid</key>
 			<string>com.lint.colorable</string>
 			<key>description</key>
-			<string>An AlienBlue color themer.</string>
+			<string>An AlienBlue color themer.
+
+&lt;br&gt;
+
+Design made to the specifications of u/completebunk.</string>
 			<key>last_updated</key>
 			<string>2020-26-02</string>
 			<key>source</key>
@@ -283,6 +287,18 @@ A12 supported.</string>
 			<string>ColorABle</string>
 			<key>version</key>
 			<string>1.1.1</string>
+		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.nogetcoins</string>
+			<key>description</key>
+			<string>Removes the "Get Coins" button in the nav bar in Reddit.</string>
+			<key>last_updated</key>
+			<string>2020-03-10</string>
+			<key>title</key>
+			<string>RedditNoGetCoinsButton</string>
+			<key>version</key>
+			<string>1.0.0</string>
 		</dict>
 	</array>
 	<key>Template</key>

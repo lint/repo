@@ -37,6 +37,25 @@ SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraro
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 
 Package: com.lint.colorable
+Version: 1.1.1-74+debug
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Filename: debs/com.lint.colorable_1.1.1-74+debug_iphoneos-arm.deb
+Size: 53626
+Installed-Size: 336
+MD5sum: a40e84dc5f2ae8c308f93b71ea38b354
+SHA1: 816c615e0dbbc374befcf4b2432e0453eaa34cdf
+SHA256: 2ddc99a66ca69adb0edf3ebddf8cc1abf14ccd4ca62962df2e0a4b3e58692ecb
+Description: Colors Alien Blue
+Name: ColorABle
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.colorable
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.colorable/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.colorable/sileo.json
+
+Package: com.lint.colorable
 Version: 1.1.1
 Section: Tweaks
 Maintainer: lint
@@ -92,6 +111,25 @@ Author: lint
 Depiction: https://lint.github.io/repo/depictions/?p=com.lint.newawardsforoldreddit
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
+
+Package: com.lint.nogetcoins
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.nogetcoins_1.0.0_iphoneos-arm.deb
+Size: 6178
+Installed-Size: 132
+MD5sum: a3c8bac37056ef77ab1cf9d4b27a97cf
+SHA1: f9882fe48a3e8a991e9612d1b7c191fc9d889d56
+SHA256: c9f0939b24647827ac5eb7e70786d960dcb3ecfd55e8729ef08991c91008baac
+Description: Removes the new "Get Coins" button in the nav bar in Reddit.
+Name: RedditNoGetCoinsButton
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nogetcoins
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nogetcoins/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nogetcoins/sileo.json
 
 Package: com.lint.ntarrows
 Version: 1.0.0

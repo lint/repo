@@ -123,11 +123,18 @@
         }, 
         {
             "bundleid": "com.lint.colorable", 
-            "description": "An AlienBlue color themer.", 
+            "description": "An AlienBlue color themer.\n\n<br>\n\nDesign made to the specifications of u/completebunk.", 
             "last_updated": "2020-26-02", 
             "source": "https://github.com/lint/colorABle", 
             "title": "ColorABle", 
             "version": "1.1.1"
+        }, 
+        {
+            "bundleid": "com.lint.nogetcoins", 
+            "description": "Removes the \"Get Coins\" button in the nav bar in Reddit.", 
+            "last_updated": "2020-03-10", 
+            "title": "RedditNoGetCoinsButton", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {
