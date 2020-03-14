@@ -280,13 +280,13 @@ A12 supported.</string>
 
 Design made to the specifications of u/completebunk.</string>
 			<key>last_updated</key>
-			<string>2020-26-02</string>
+			<string>2020-03-14</string>
 			<key>source</key>
 			<string>https://github.com/lint/colorABle</string>
 			<key>title</key>
 			<string>ColorABle</string>
 			<key>version</key>
-			<string>1.1.1</string>
+			<string>1.1.2</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>

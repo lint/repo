@@ -124,10 +124,10 @@
         {
             "bundleid": "com.lint.colorable", 
             "description": "An AlienBlue color themer.\n\n<br>\n\nDesign made to the specifications of u/completebunk.", 
-            "last_updated": "2020-26-02", 
+            "last_updated": "2020-03-14", 
             "source": "https://github.com/lint/colorABle", 
             "title": "ColorABle", 
-            "version": "1.1.1"
+            "version": "1.1.2"
         }, 
         {
             "bundleid": "com.lint.nogetcoins", 
