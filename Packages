@@ -195,11 +195,11 @@ Maintainer: lint
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.lint.pasteandgo_1.0.0_iphoneos-arm.deb
-Size: 9486
+Size: 9850
 Installed-Size: 116
-MD5sum: 06552d8038dad5c743e1c06434530ea7
-SHA1: f8afea95c8e3102cd1f86a02deea34e6828283c9
-SHA256: f37d211d645e65dab5f571c673cc2564b456e4f8d58a92b5f97e42613c5008e9
+MD5sum: b9603d76e5bbc1a35468d72b4681e10c
+SHA1: 8b8f40cd2f4322da801a4e6beb76a2988a0c93cf
+SHA256: d741206e38ecf908a4d7eaf7ccfa48e2e5e340854ed0674fb5c03b193cb1bf4e
 Description: Adds a "paste and go" force touch option for Safari.
 Name: PasteAndGo
 Author: lint
