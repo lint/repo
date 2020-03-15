@@ -56,6 +56,25 @@ SileoDepiction: https://lint.github.io/repo/depictions/com.lint.colorable/sileo.
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.colorable/sileo.json
 
 Package: com.lint.colorable
+Version: 1.1.3
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate, com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Filename: debs/com.lint.colorable_1.1.3_iphoneos-arm.deb
+Size: 59192
+Installed-Size: 624
+MD5sum: d1b084fe5c6e17d8910e2ae06c04955e
+SHA1: 2c331f428cc86918e0d7ddde344eec921dd82597
+SHA256: fa18fe0c4a135f0152276550240a76c886490a607f600a4396cc9590b7c12196
+Description: Colors Alien Blue
+Name: ColorABle
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.colorable
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.colorable/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.colorable/sileo.json
+
+Package: com.lint.colorable
 Version: 1.1.1-74+debug
 Section: Tweaks
 Maintainer: lint
@@ -168,6 +187,25 @@ Author: lint
 Depiction: https://lint.github.io/repo/depictions/?p=com.lint.ntarrows
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.ntarrows/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.ntarrows/sileo.json
+
+Package: com.lint.pasteandgo
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.pasteandgo_1.0.0_iphoneos-arm.deb
+Size: 9486
+Installed-Size: 116
+MD5sum: 06552d8038dad5c743e1c06434530ea7
+SHA1: f8afea95c8e3102cd1f86a02deea34e6828283c9
+SHA256: f37d211d645e65dab5f571c673cc2564b456e4f8d58a92b5f97e42613c5008e9
+Description: Adds a "paste and go" force touch option for Safari.
+Name: PasteAndGo
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.pasteandgo
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.pasteandgo/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.pasteandgo/sileo.json
 
 Package: com.lint.photoctrl
 Version: 1.0.1

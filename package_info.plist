@@ -280,13 +280,13 @@ A12 supported.</string>
 
 Design made to the specifications of u/completebunk.</string>
 			<key>last_updated</key>
-			<string>2020-03-14</string>
+			<string>2020-03-15</string>
 			<key>source</key>
 			<string>https://github.com/lint/colorABle</string>
 			<key>title</key>
 			<string>ColorABle</string>
 			<key>version</key>
-			<string>1.1.2</string>
+			<string>1.1.3</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>
@@ -297,6 +297,22 @@ Design made to the specifications of u/completebunk.</string>
 			<string>2020-03-10</string>
 			<key>title</key>
 			<string>RedditNoGetCoinsButton</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.pasteandgo</string>
+			<key>description</key>
+			<string>Adds a "Paste and Go" force touch option to Safari when a valid link is in the pasteboard.</string>
+			<key>last_updated</key>
+			<string>2020-03-15</string>
+			<key>max_ios</key>
+			<string>13.3</string>
+			<key>min_ios</key>
+			<string>10</string>
+			<key>title</key>
+			<string>PasteAndGo</string>
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>
