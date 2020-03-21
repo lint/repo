@@ -169,6 +169,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nogetcoins
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nogetcoins/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nogetcoins/sileo.json
 
+Package: com.lint.nogetcoins
+Version: 1.0.1
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.nogetcoins_1.0.1_iphoneos-arm.deb
+Size: 6340
+Installed-Size: 116
+MD5sum: 998ec5a96c14a17d64617532f20e11ad
+SHA1: e0edf2562567f52f5e0fc5a60564b14d46a963fd
+SHA256: 760398c388f48e2d103d505a1abb0219ce849f544b22cf97eb7bc3effb8518f6
+Description: Removes the new "Get Coins" button in the nav bar in Reddit.
+Name: RedditNoGetCoinsButton
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nogetcoins
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nogetcoins/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nogetcoins/sileo.json
+
 Package: com.lint.ntarrows
 Version: 1.0.0
 Section: Tweaks

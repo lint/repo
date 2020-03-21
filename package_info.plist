@@ -260,7 +260,9 @@ A12 supported.</string>
 			<key>bundleid</key>
 			<string>com.lint.ntarrows</string>
 			<key>description</key>
-			<string>Allows you to hold the arrow keys to move the cursor in New Term.</string>
+			<string>Allows you to hold the arrow keys to move the cursor in New Term.
+&lt;br&gt;
+Obselete as of NewTerm 2.4</string>
 			<key>last_updated</key>
 			<string>2019-11-19</string>
 			<key>source</key>
@@ -291,14 +293,21 @@ Design made to the specifications of u/completebunk.</string>
 		<dict>
 			<key>bundleid</key>
 			<string>com.lint.nogetcoins</string>
+			<key>change_log</key>
+			<dict>
+				<key>1.0.0</key>
+				<string>Initial release</string>
+				<key>1.0.1</key>
+				<string>Hook more methods introduced in 2020.9.0</string>
+			</dict>
 			<key>description</key>
 			<string>Removes the "Get Coins" button in the nav bar in Reddit.</string>
 			<key>last_updated</key>
-			<string>2020-03-10</string>
+			<string>2020-03-20</string>
 			<key>title</key>
 			<string>RedditNoGetCoinsButton</string>
 			<key>version</key>
-			<string>1.0.0</string>
+			<string>1.0.1</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>

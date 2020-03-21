@@ -115,7 +115,7 @@
         }, 
         {
             "bundleid": "com.lint.ntarrows", 
-            "description": "Allows you to hold the arrow keys to move the cursor in New Term.", 
+            "description": "Allows you to hold the arrow keys to move the cursor in New Term.\n<br>\nObselete as of NewTerm 2.4", 
             "last_updated": "2019-11-19", 
             "source": "https://github.com/lint/NewTermArrows", 
             "title": "NewTermArrows", 
@@ -131,10 +131,14 @@
         }, 
         {
             "bundleid": "com.lint.nogetcoins", 
+            "change_log": {
+                "1.0.0": "Initial release", 
+                "1.0.1": "Hook more methods introduced in 2020.9.0"
+            }, 
             "description": "Removes the \"Get Coins\" button in the nav bar in Reddit.", 
-            "last_updated": "2020-03-10", 
+            "last_updated": "2020-03-20", 
             "title": "RedditNoGetCoinsButton", 
-            "version": "1.0.0"
+            "version": "1.0.1"
         }, 
         {
             "bundleid": "com.lint.pasteandgo", 
