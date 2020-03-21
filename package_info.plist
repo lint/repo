@@ -341,6 +341,20 @@ Design made to the specifications of u/completebunk.</string>
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.notextmagnifier</string>
+			<key>description</key>
+			<string>Disables the text magnifier from appearing when selecting text.</string>
+			<key>last_updated</key>
+			<string>2020-03-21</string>
+			<key>max_ios</key>
+			<string>12.4</string>
+			<key>title</key>
+			<string>NoTextMagnifier</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
 	</array>
 	<key>Template</key>
 	<dict>

@@ -207,6 +207,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nogetcoins
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nogetcoins/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nogetcoins/sileo.json
 
+Package: com.lint.notextmagnifier
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.notextmagnifier_1.0.0_iphoneos-arm.deb
+Size: 6066
+Installed-Size: 116
+MD5sum: 9e605d7156c4b0d0ec821de84f41edbd
+SHA1: 54d6d9a8c21504c65ab02f6943e52f42327302c1
+SHA256: 34651f735e5c519c64080f6c188e8d24253d1c24f99f65a0477a1e472cc8c958
+Description: Disables the text mangifier when moving the cursor.
+Name: NoTextMagnifier
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.notextmagnifier
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.notextmagnifier/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.notextmagnifier/sileo.json
+
 Package: com.lint.ntarrows
 Version: 1.0.0
 Section: Tweaks

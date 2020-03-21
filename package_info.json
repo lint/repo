@@ -157,6 +157,14 @@
             "source": "https://github.com/lint/GroupNumberLabels", 
             "title": "GroupNumberLabels", 
             "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.notextmagnifier", 
+            "description": "Disables the text magnifier from appearing when selecting text.", 
+            "last_updated": "2020-03-21", 
+            "max_ios": "12.4", 
+            "title": "NoTextMagnifier", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {
