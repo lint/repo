@@ -152,6 +152,7 @@
         {
             "bundleid": "com.lint.groupnumberlabels", 
             "description": "In the group message info view, this adds each contacts phone number under their name.", 
+            "source": "https://github.com/lint/GroupNumberLabels", 
             "title": "GroupNumberLabels", 
             "version": "1.0.0"
         }
