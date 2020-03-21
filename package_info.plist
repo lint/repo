@@ -330,6 +330,10 @@ Design made to the specifications of u/completebunk.</string>
 			<string>com.lint.groupnumberlabels</string>
 			<key>description</key>
 			<string>In the group message info view, this adds each contacts phone number under their name.</string>
+			<key>last_updated</key>
+			<string>2020-03-21</string>
+			<key>max_ios</key>
+			<string>13.x</string>
 			<key>source</key>
 			<string>https://github.com/lint/GroupNumberLabels</string>
 			<key>title</key>
