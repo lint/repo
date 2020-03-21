@@ -325,6 +325,16 @@ Design made to the specifications of u/completebunk.</string>
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.groupnumberlabels</string>
+			<key>description</key>
+			<string>In the group message info view, this adds each contacts phone number under their name.</string>
+			<key>title</key>
+			<string>GroupNumberLabels</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
 	</array>
 	<key>Template</key>
 	<dict>

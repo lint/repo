@@ -148,6 +148,12 @@
             "min_ios": "10", 
             "title": "PasteAndGo", 
             "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.groupnumberlabels", 
+            "description": "In the group message info view, this adds each contacts phone number under their name.", 
+            "title": "GroupNumberLabels", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {

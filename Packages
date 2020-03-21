@@ -112,6 +112,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.colorable
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.colorable/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.colorable/sileo.json
 
+Package: com.lint.groupnumberlabels
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.groupnumberlabels_1.0.0_iphoneos-arm.deb
+Size: 8654
+Installed-Size: 116
+MD5sum: 99d0cf81b85dc473c2c2088ce5bda6d1
+SHA1: e72ef0d927fc1fdc3ae0abdab8a65087ee1631b6
+SHA256: 47cf9d4dfbe362f01a714a87fa8fe4785dae3a1a4df19df88a87947a49243026
+Description: Shows phone numbers under contacts in group messages.
+Name: GroupNumberLabels
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.groupnumberlabels
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.groupnumberlabels/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.groupnumberlabels/sileo.json
+
 Package: com.lint.khanacademynoaudio
 Version: 0.0.1
 Section: Tweaks
