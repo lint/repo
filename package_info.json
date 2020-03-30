@@ -165,6 +165,15 @@
             "max_ios": "12.4", 
             "title": "NoTextMagnifier", 
             "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.nofolderbadges", 
+            "description": "Removes notification badges from folders.", 
+            "last_updated": "2020-03-30", 
+            "max_ios": "13", 
+            "source": "https://github.com/lint/NoFolderBadges", 
+            "title": "NoFolderBadges", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {

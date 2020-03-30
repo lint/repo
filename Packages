@@ -169,6 +169,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.newawardsforoldred
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
 
+Package: com.lint.nofolderbadges
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.nofolderbadges_1.0.0_iphoneos-arm.deb
+Size: 6850
+Installed-Size: 116
+MD5sum: 1d99fb2d79d0a2e086a95de76ef8c7e1
+SHA1: 0c1ad557bb761ee3cecc50254d2f869574986d4a
+SHA256: 18f793fe121b78cc3c1864cdbe421202f782d96fd92ad0fb258b396541ab6501
+Description: Removes badges on folders.
+Name: NoFolderBadges
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nofolderbadges
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nofolderbadges/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nofolderbadges/sileo.json
+
 Package: com.lint.nogetcoins
 Version: 1.0.0
 Section: Tweaks

@@ -355,6 +355,22 @@ Design made to the specifications of u/completebunk.</string>
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.nofolderbadges</string>
+			<key>description</key>
+			<string>Removes notification badges from folders.</string>
+			<key>last_updated</key>
+			<string>2020-03-30</string>
+			<key>max_ios</key>
+			<string>13</string>
+			<key>source</key>
+			<string>https://github.com/lint/NoFolderBadges</string>
+			<key>title</key>
+			<string>NoFolderBadges</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
 	</array>
 	<key>Template</key>
 	<dict>
