@@ -168,11 +168,20 @@
         }, 
         {
             "bundleid": "com.lint.nofolderbadges", 
-            "description": "Removes notification badges from folders.", 
+            "description": "Hides notification badges on folders.", 
             "last_updated": "2020-03-30", 
             "max_ios": "13", 
             "source": "https://github.com/lint/NoFolderBadges", 
             "title": "NoFolderBadges", 
+            "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.nohomebadges", 
+            "description": "Hides notifications badges on home screen icons.", 
+            "last_updated": "2020-03-30", 
+            "max_ios": "13", 
+            "source": "https://github.com/lint/NoHomeBadges", 
+            "title": "NoHomeBadges", 
             "version": "1.0.0"
         }
     ], 

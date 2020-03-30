@@ -359,7 +359,7 @@ Design made to the specifications of u/completebunk.</string>
 			<key>bundleid</key>
 			<string>com.lint.nofolderbadges</string>
 			<key>description</key>
-			<string>Removes notification badges from folders.</string>
+			<string>Hides notification badges on folders.</string>
 			<key>last_updated</key>
 			<string>2020-03-30</string>
 			<key>max_ios</key>
@@ -368,6 +368,22 @@ Design made to the specifications of u/completebunk.</string>
 			<string>https://github.com/lint/NoFolderBadges</string>
 			<key>title</key>
 			<string>NoFolderBadges</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.nohomebadges</string>
+			<key>description</key>
+			<string>Hides notifications badges on home screen icons.</string>
+			<key>last_updated</key>
+			<string>2020-03-30</string>
+			<key>max_ios</key>
+			<string>13</string>
+			<key>source</key>
+			<string>https://github.com/lint/NoHomeBadges</string>
+			<key>title</key>
+			<string>NoHomeBadges</string>
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>
