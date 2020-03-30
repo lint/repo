@@ -233,11 +233,11 @@ Maintainer: lint
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: debs/com.lint.nohomebadges_1.0.0_iphoneos-arm.deb
-Size: 7046
+Size: 7052
 Installed-Size: 116
-MD5sum: f6834af9b24359ce0ec8666606ce3f70
-SHA1: da76529179c4d794e9854b8ecf0821befd5576d1
-SHA256: 4f7109853441dafdbd2fd00670040c961605efcc3f38eeaae2b624da8775413b
+MD5sum: 2e70a273f410839167b95c7feb114a1e
+SHA1: b369550d7b2a24d5850d57bf8d1908fec7cb55e2
+SHA256: 712ff98cc5168b16dad72762c8fa92f2736cc0d470dea07e9141863c4f6963f1
 Description: Removes all notification badges on the home screen.
 Name: NoHomeBadges
 Author: lint
