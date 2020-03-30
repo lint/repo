@@ -245,6 +245,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nohomebadges
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nohomebadges/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nohomebadges/sileo.json
 
+Package: com.lint.nomessagepreviews
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.nomessagepreviews_1.0.0_iphoneos-arm.deb
+Size: 6074
+Installed-Size: 116
+MD5sum: 496e3fa395b150e5fbd1e4bd91d8dcf2
+SHA1: 7674dac1e4b0a67daaaf9d337a35e48afd016fed
+SHA256: 4659f3d8477a544c156b6896d8e3e38b71fcd712c3b63da6ac1c121947166c16
+Description: Hide text previews in messages.
+Name: NoMessagePreviews
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nomessagepreviews
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nomessagepreviews/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nomessagepreviews/sileo.json
+
 Package: com.lint.notextmagnifier
 Version: 1.0.0
 Section: Tweaks

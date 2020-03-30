@@ -183,6 +183,14 @@
             "source": "https://github.com/lint/NoHomeBadges", 
             "title": "NoHomeBadges", 
             "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.nomessagepreviews", 
+            "description": "Hides text previews in messages.", 
+            "last_updated": "2020-03-30", 
+            "max_ios": "13", 
+            "title": "NoMessagePreviews", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {
