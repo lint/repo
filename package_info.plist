@@ -304,6 +304,8 @@ Design made to the specifications of u/completebunk.</string>
 			<string>Removes the "Get Coins" button in the nav bar in Reddit.</string>
 			<key>last_updated</key>
 			<string>2020-03-20</string>
+			<key>source</key>
+			<string>https://github.com/lint/RedditNoGetCoinsButton</string>
 			<key>title</key>
 			<string>RedditNoGetCoinsButton</string>
 			<key>version</key>
@@ -398,6 +400,24 @@ Design made to the specifications of u/completebunk.</string>
 			<string>13</string>
 			<key>title</key>
 			<string>NoMessagePreviews</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.contacttime</string>
+			<key>description</key>
+			<string>Set time zones for your contacts and view their local time in messages and contacts.</string>
+			<key>last_updated</key>
+			<string>2020-04-07</string>
+			<key>max_ios</key>
+			<string>13</string>
+			<key>min_ios</key>
+			<string>(10?)</string>
+			<key>source</key>
+			<string>https://github.com/lint/ContactTime</string>
+			<key>title</key>
+			<string>ContactTime</string>
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>

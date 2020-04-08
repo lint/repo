@@ -112,6 +112,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.colorable
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.colorable/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.colorable/sileo.json
 
+Package: com.lint.contacttime
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Filename: debs/com.lint.contacttime_1.0.0_iphoneos-arm.deb
+Size: 132150
+Installed-Size: 1352
+MD5sum: 7e13070b06c51542f6662d84e89c0074
+SHA1: 0e3fe5b66f18b2829d29a5e588d39669911f87f0
+SHA256: bf31e4d193d7675af1785042461495ccb9cdeaceba07fd26b3f7b1b4f850579b
+Description: Shows contact's local time according to their timezone.
+Name: ContactTime
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.contacttime
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.contacttime/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.contacttime/sileo.json
+
 Package: com.lint.groupnumberlabels
 Version: 1.0.0
 Section: Tweaks

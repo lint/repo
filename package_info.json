@@ -137,6 +137,7 @@
             }, 
             "description": "Removes the \"Get Coins\" button in the nav bar in Reddit.", 
             "last_updated": "2020-03-20", 
+            "source": "https://github.com/lint/RedditNoGetCoinsButton", 
             "title": "RedditNoGetCoinsButton", 
             "version": "1.0.1"
         }, 
@@ -190,6 +191,16 @@
             "last_updated": "2020-03-30", 
             "max_ios": "13", 
             "title": "NoMessagePreviews", 
+            "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.contacttime", 
+            "description": "Set time zones for your contacts and view their local time in messages and contacts.", 
+            "last_updated": "2020-04-07", 
+            "max_ios": "13", 
+            "min_ios": "(10?)", 
+            "source": "https://github.com/lint/ContactTime", 
+            "title": "ContactTime", 
             "version": "1.0.0"
         }
     ], 
