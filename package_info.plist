@@ -406,10 +406,12 @@ Design made to the specifications of u/completebunk.</string>
 		<dict>
 			<key>bundleid</key>
 			<string>com.lint.contacttime</string>
+			<key>change_log</key>
+			<string>Add expanded (more) time zones option.</string>
 			<key>description</key>
 			<string>Set time zones for your contacts and view their local time in messages and contacts.</string>
 			<key>last_updated</key>
-			<string>2020-04-07</string>
+			<string>2020-04-14</string>
 			<key>max_ios</key>
 			<string>13</string>
 			<key>min_ios</key>
@@ -419,7 +421,7 @@ Design made to the specifications of u/completebunk.</string>
 			<key>title</key>
 			<string>ContactTime</string>
 			<key>version</key>
-			<string>1.0.0</string>
+			<string>1.0.1</string>
 		</dict>
 	</array>
 	<key>Template</key>

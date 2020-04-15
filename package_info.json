@@ -195,13 +195,14 @@
         }, 
         {
             "bundleid": "com.lint.contacttime", 
+            "change_log": "Add expanded (more) time zones option.", 
             "description": "Set time zones for your contacts and view their local time in messages and contacts.", 
-            "last_updated": "2020-04-07", 
+            "last_updated": "2020-04-14", 
             "max_ios": "13", 
             "min_ios": "(10?)", 
             "source": "https://github.com/lint/ContactTime", 
             "title": "ContactTime", 
-            "version": "1.0.0"
+            "version": "1.0.1"
         }
     ], 
     "Template": {
