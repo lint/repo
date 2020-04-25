@@ -226,44 +226,6 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nofolderbadges
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nofolderbadges/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nofolderbadges/sileo.json
 
-Package: com.lint.nogetcoins
-Version: 1.0.0
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.nogetcoins_1.0.0_iphoneos-arm.deb
-Size: 6178
-Installed-Size: 132
-MD5sum: a3c8bac37056ef77ab1cf9d4b27a97cf
-SHA1: f9882fe48a3e8a991e9612d1b7c191fc9d889d56
-SHA256: c9f0939b24647827ac5eb7e70786d960dcb3ecfd55e8729ef08991c91008baac
-Description: Removes the new "Get Coins" button in the nav bar in Reddit.
-Name: RedditNoGetCoinsButton
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nogetcoins
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nogetcoins/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nogetcoins/sileo.json
-
-Package: com.lint.nogetcoins
-Version: 1.0.1
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.nogetcoins_1.0.1_iphoneos-arm.deb
-Size: 6340
-Installed-Size: 116
-MD5sum: 998ec5a96c14a17d64617532f20e11ad
-SHA1: e0edf2562567f52f5e0fc5a60564b14d46a963fd
-SHA256: 760398c388f48e2d103d505a1abb0219ce849f544b22cf97eb7bc3effb8518f6
-Description: Removes the new "Get Coins" button in the nav bar in Reddit.
-Name: RedditNoGetCoinsButton
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nogetcoins
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nogetcoins/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nogetcoins/sileo.json
-
 Package: com.lint.nohomebadges
 Version: 1.0.0
 Section: Tweaks
@@ -415,6 +377,25 @@ Author: lint
 Depiction: https://lint.github.io/repo/depictions/?p=com.lint.redditdarkmodecustomarrows
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.redditdarkmodecustomarrows/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.redditdarkmodecustomarrows/sileo.json
+
+Package: com.lint.stopitwiththecoins
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.stopitwiththecoins_1.0.0_iphoneos-arm.deb
+Size: 6826
+Installed-Size: 116
+MD5sum: f0ee652e5ede0623a17a89d1c899462d
+SHA1: 83377b94f30b7353a349864de0f2e7b515708e1b
+SHA256: ad4dcf405d07d537f4871dd3b374a36083ef7a2c09e2b9251c6c3e4935d075ec
+Description: Removes the "Get Coins" button in the nav bar and awarded comment highlights in Reddit.
+Name: StopItWithTheCoins
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.stopitwiththecoins
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.stopitwiththecoins/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.stopitwiththecoins/sileo.json
 
 Package: com.lint.tabtracker
 Version: 1.0

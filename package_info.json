@@ -203,6 +203,13 @@
             "source": "https://github.com/lint/ContactTime", 
             "title": "ContactTime", 
             "version": "1.0.1"
+        }, 
+        {
+            "bundleid": "com.lint.stopitwiththecoins", 
+            "description": "Removes the \"Get Coins\" button on the search bar and awarded comment highlights in the official Reddit app.", 
+            "last_updated": "2020-04-25", 
+            "title": "StopItWithTheCoins", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {

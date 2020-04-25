@@ -423,6 +423,18 @@ Design made to the specifications of u/completebunk.</string>
 			<key>version</key>
 			<string>1.0.1</string>
 		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.stopitwiththecoins</string>
+			<key>description</key>
+			<string>Removes the "Get Coins" button on the search bar and awarded comment highlights in the official Reddit app.</string>
+			<key>last_updated</key>
+			<string>2020-04-25</string>
+			<key>title</key>
+			<string>StopItWithTheCoins</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
 	</array>
 	<key>Template</key>
 	<dict>
