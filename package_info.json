@@ -206,10 +206,14 @@
         }, 
         {
             "bundleid": "com.lint.stopitwiththecoins", 
-            "description": "Removes the \"Get Coins\" button on the search bar and awarded comment highlights in the official Reddit app.", 
-            "last_updated": "2020-04-25", 
+            "change_log": {
+                "1.0.0": "Initial release", 
+                "1.1.0": "Added preferences, and options to hide coins on the pullover menu and gilding buttons on comments and posts."
+            }, 
+            "description": "Hides several coin promotions and usages in the official Reddit app. \n<br>\nThese include awarded comment highlights, the coin button in the search bar, the gilding button on posts and comments, and premium/get coin options in the pullover menu.", 
+            "last_updated": "2020-04-30", 
             "title": "StopItWithTheCoins", 
-            "version": "1.0.0"
+            "version": "1.1.0"
         }
     ], 
     "Template": {

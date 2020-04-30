@@ -426,14 +426,23 @@ Design made to the specifications of u/completebunk.</string>
 		<dict>
 			<key>bundleid</key>
 			<string>com.lint.stopitwiththecoins</string>
+			<key>change_log</key>
+			<dict>
+				<key>1.0.0</key>
+				<string>Initial release</string>
+				<key>1.1.0</key>
+				<string>Added preferences, and options to hide coins on the pullover menu and gilding buttons on comments and posts.</string>
+			</dict>
 			<key>description</key>
-			<string>Removes the "Get Coins" button on the search bar and awarded comment highlights in the official Reddit app.</string>
+			<string>Hides several coin promotions and usages in the official Reddit app. 
+&lt;br&gt;
+These include awarded comment highlights, the coin button in the search bar, the gilding button on posts and comments, and premium/get coin options in the pullover menu.</string>
 			<key>last_updated</key>
-			<string>2020-04-25</string>
+			<string>2020-04-30</string>
 			<key>title</key>
 			<string>StopItWithTheCoins</string>
 			<key>version</key>
-			<string>1.0.0</string>
+			<string>1.1.0</string>
 		</dict>
 	</array>
 	<key>Template</key>

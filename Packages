@@ -150,44 +150,6 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.contacttime
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.contacttime/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.contacttime/sileo.json
 
-Package: com.lint.groupnumberlabels
-Version: 1.0.0
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.groupnumberlabels_1.0.0_iphoneos-arm.deb
-Size: 8654
-Installed-Size: 116
-MD5sum: 99d0cf81b85dc473c2c2088ce5bda6d1
-SHA1: e72ef0d927fc1fdc3ae0abdab8a65087ee1631b6
-SHA256: 47cf9d4dfbe362f01a714a87fa8fe4785dae3a1a4df19df88a87947a49243026
-Description: Shows phone numbers under contacts in group messages.
-Name: GroupNumberLabels
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.groupnumberlabels
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.groupnumberlabels/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.groupnumberlabels/sileo.json
-
-Package: com.lint.khanacademynoaudio
-Version: 0.0.1
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.khanacademynoaudio_0.0.1_iphoneos-arm.deb
-Size: 2314
-Installed-Size: 136
-MD5sum: fd02fecbb8e68d9623b8013d98f08ca4
-SHA1: c3dbd59d6f58b1f30d4010659870d2e5b6dfcd84
-SHA256: 25f485f8f829919c8913216ea7681c78622dec5eab1c01158cbdfa64deec0eed
-Description: Disables [RNSound play: withCallback:] in Khan Academy.
-Name: KhanAcademyNoAudio
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.khanacademynoaudio
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.khanacademynoaudio/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.khanacademynoaudio/sileo.json
-
 Package: com.lint.newawardsforoldreddit
 Version: 1.2.0
 Section: Tweaks
@@ -206,82 +168,6 @@ Author: lint
 Depiction: https://lint.github.io/repo/depictions/?p=com.lint.newawardsforoldreddit
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
-
-Package: com.lint.nofolderbadges
-Version: 1.0.0
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.nofolderbadges_1.0.0_iphoneos-arm.deb
-Size: 6850
-Installed-Size: 116
-MD5sum: 1d99fb2d79d0a2e086a95de76ef8c7e1
-SHA1: 0c1ad557bb761ee3cecc50254d2f869574986d4a
-SHA256: 18f793fe121b78cc3c1864cdbe421202f782d96fd92ad0fb258b396541ab6501
-Description: Removes badges on folders.
-Name: NoFolderBadges
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nofolderbadges
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nofolderbadges/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nofolderbadges/sileo.json
-
-Package: com.lint.nohomebadges
-Version: 1.0.0
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.nohomebadges_1.0.0_iphoneos-arm.deb
-Size: 7052
-Installed-Size: 116
-MD5sum: 2e70a273f410839167b95c7feb114a1e
-SHA1: b369550d7b2a24d5850d57bf8d1908fec7cb55e2
-SHA256: 712ff98cc5168b16dad72762c8fa92f2736cc0d470dea07e9141863c4f6963f1
-Description: Removes all notification badges on the home screen.
-Name: NoHomeBadges
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nohomebadges
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nohomebadges/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nohomebadges/sileo.json
-
-Package: com.lint.nomessagepreviews
-Version: 1.0.0
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.nomessagepreviews_1.0.0_iphoneos-arm.deb
-Size: 6074
-Installed-Size: 116
-MD5sum: 496e3fa395b150e5fbd1e4bd91d8dcf2
-SHA1: 7674dac1e4b0a67daaaf9d337a35e48afd016fed
-SHA256: 4659f3d8477a544c156b6896d8e3e38b71fcd712c3b63da6ac1c121947166c16
-Description: Hide text previews in messages.
-Name: NoMessagePreviews
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.nomessagepreviews
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.nomessagepreviews/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.nomessagepreviews/sileo.json
-
-Package: com.lint.notextmagnifier
-Version: 1.0.0
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.notextmagnifier_1.0.0_iphoneos-arm.deb
-Size: 6066
-Installed-Size: 116
-MD5sum: 9e605d7156c4b0d0ec821de84f41edbd
-SHA1: 54d6d9a8c21504c65ab02f6943e52f42327302c1
-SHA256: 34651f735e5c519c64080f6c188e8d24253d1c24f99f65a0477a1e472cc8c958
-Description: Disables the text mangifier when moving the cursor.
-Name: NoTextMagnifier
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.notextmagnifier
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.notextmagnifier/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.notextmagnifier/sileo.json
 
 Package: com.lint.ntarrows
 Version: 1.0.0
@@ -302,25 +188,6 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.ntarrows
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.ntarrows/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.ntarrows/sileo.json
 
-Package: com.lint.pasteandgo
-Version: 1.0.0
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.pasteandgo_1.0.0_iphoneos-arm.deb
-Size: 9850
-Installed-Size: 116
-MD5sum: b9603d76e5bbc1a35468d72b4681e10c
-SHA1: 8b8f40cd2f4322da801a4e6beb76a2988a0c93cf
-SHA256: d741206e38ecf908a4d7eaf7ccfa48e2e5e340854ed0674fb5c03b193cb1bf4e
-Description: Adds a "paste and go" force touch option for Safari.
-Name: PasteAndGo
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.pasteandgo
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.pasteandgo/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.pasteandgo/sileo.json
-
 Package: com.lint.photoctrl
 Version: 1.0.1
 Section: Tweaks
@@ -340,43 +207,24 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.photoctrl
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.photoctrl/sileo.json
 
-Package: com.lint.reachablecc
-Version: 1.0.0
+Package: com.lint.stopitwiththecoins
+Version: 1.1.0
 Section: Tweaks
 Maintainer: lint
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs/com.lint.reachablecc_1.0.0_iphoneos-arm.deb
-Size: 2502
-Installed-Size: 136
-MD5sum: 13feae50b89210f6b1b55794b861b765
-SHA1: 7bf8ebfaa2f39b5ff0bccca325f4893db37a512d
-SHA256: 13ee91603b118df47fe95882fd3e51bd3d9a8db52a2b6b38c05d70b6dfbbf933
-Description: Opens the control center when toggling reachability
-Name: ReachableCC
+Filename: debs/com.lint.stopitwiththecoins_1.1.0_iphoneos-arm.deb
+Size: 24568
+Installed-Size: 260
+MD5sum: 0df801c4aeb873482a458c43035c03c3
+SHA1: dd172f2fc0c16869d3cdf40881c85e00b564704c
+SHA256: 98ee2395ff9689636a227dbafedec9bc0d1494ebda3579430847567e8bf88838
+Description: Hides several coin promotions and usages in the official Reddit app.
+Name: StopItWithTheCoins
 Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.reachablecc
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.reachablecc/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.reachablecc/sileo.json
-
-Package: com.lint.redditdarkmodecustomarrows
-Version: 1.0.0
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.redditdarkmodecustomarrows_1.0.0_iphoneos-arm.deb
-Size: 2436
-Installed-Size: 136
-MD5sum: 59a02bf5680846ba77d80a8e743f6aad
-SHA1: b938b6c00c861ad97a61afb4224e3529f29dffff
-SHA256: 6e8b13d2f0f36e926fa8b36486e843d9b8585e423f655fe7c917cb513a932fa3
-Description: Enables custom subreddit upvote and downvote arrows when darkmode is enabled in the offical Reddit app.
-Name: RedditDarkModeCustomArrows
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.redditdarkmodecustomarrows
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.redditdarkmodecustomarrows/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.redditdarkmodecustomarrows/sileo.json
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.stopitwiththecoins
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.stopitwiththecoins/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.stopitwiththecoins/sileo.json
 
 Package: com.lint.stopitwiththecoins
 Version: 1.0.0
@@ -643,42 +491,4 @@ Author: lint <apieceoflint@protonmail.com>
 Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
-
-Package: com.lint.videoflashindicator
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.videoflashindicator_1.0.0-1_iphoneos-arm.deb
-Size: 14958
-Installed-Size: 344
-MD5sum: e31db1d6145709dbb0fc0cfa9c83abf3
-SHA1: 21939aa3e4753a9e5becf2bda505cb8ff1fdf5b7
-SHA256: b7caeaa6ac2459d720d9bcb16143dd8b18afd0766da28e9d72eecf681214473e
-Description: Enables flash briefly when starting a recording.
-Name: VideoFlashIndicator
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.videoflashindicator
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
-
-Package: com.lint.videoflashindicator
-Version: 1.0.0
-Section: Tweaks
-Maintainer: lint
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: debs/com.lint.videoflashindicator_1.0.0_iphoneos-arm.deb
-Size: 12860
-Installed-Size: 368
-MD5sum: da20a229e352a11a8a63254df4a3cc6a
-SHA1: cf67cd01c2f439d4e1317064b27c47029a71b5d5
-SHA256: 395d51f88465fd1af9ae453bdd5ecdc5c837ec3e8f0fc59b38a4cc2217b4f91c
-Description: Enables flash briefly when starting a video.
-Name: VideoFlashIndicator
-Author: lint
-Depiction: https://lint.github.io/repo/depictions/?p=com.lint.videoflashindicator
-SileoDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
-ModernDepiction: https://lint.github.io/repo/depictions/com.lint.videoflashindicator/sileo.json
 
