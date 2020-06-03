@@ -209,12 +209,13 @@
             "change_log": {
                 "1.0.0": "Initial release", 
                 "1.1.0": "Added preferences, and options to hide coins on the pullover menu and gilding buttons on comments and posts.", 
-                "1.1.1": "Fix preference bundle error"
+                "1.1.1": "Fix preference bundle error", 
+                "1.1.2": "Add Reddit 2020.20.0 support"
             }, 
             "description": "Hides several coin promotions and usages in the official Reddit app. \n<br>\nThese include awarded comment highlights, the coin button in the search bar, the gilding button on posts and comments, and premium/get coin options in the pullover menu.", 
-            "last_updated": "2020-05-05", 
+            "last_updated": "2020-06-03", 
             "title": "StopItWithTheCoins", 
-            "version": "1.1.1"
+            "version": "1.1.2"
         }
     ], 
     "Template": {

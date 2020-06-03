@@ -434,17 +434,19 @@ Design made to the specifications of u/completebunk.</string>
 				<string>Added preferences, and options to hide coins on the pullover menu and gilding buttons on comments and posts.</string>
 				<key>1.1.1</key>
 				<string>Fix preference bundle error</string>
+				<key>1.1.2</key>
+				<string>Add Reddit 2020.20.0 support</string>
 			</dict>
 			<key>description</key>
 			<string>Hides several coin promotions and usages in the official Reddit app. 
 &lt;br&gt;
 These include awarded comment highlights, the coin button in the search bar, the gilding button on posts and comments, and premium/get coin options in the pullover menu.</string>
 			<key>last_updated</key>
-			<string>2020-05-05</string>
+			<string>2020-06-03</string>
 			<key>title</key>
 			<string>StopItWithTheCoins</string>
 			<key>version</key>
-			<string>1.1.1</string>
+			<string>1.1.2</string>
 		</dict>
 	</array>
 	<key>Template</key>

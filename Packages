@@ -246,6 +246,25 @@ SileoDepiction: https://lint.github.io/repo/depictions/com.lint.stopitwiththecoi
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.stopitwiththecoins/sileo.json
 
 Package: com.lint.stopitwiththecoins
+Version: 1.1.2
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.stopitwiththecoins_1.1.2_iphoneos-arm.deb
+Size: 28418
+Installed-Size: 492
+MD5sum: c5d6c0b7e369b80555f324de5b71a832
+SHA1: 731d173ce3f33eb187e86ad4eb420ddbd2bfa7bf
+SHA256: f80e32bf399e2cba9ceca3cba396172c3dec8ae919ed4fc6c5a6569162eb7d99
+Description: Hides several coin promotions and usages in the official Reddit app.
+Name: StopItWithTheCoins
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.stopitwiththecoins
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.stopitwiththecoins/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.stopitwiththecoins/sileo.json
+
+Package: com.lint.stopitwiththecoins
 Version: 1.0.0
 Section: Tweaks
 Maintainer: lint
