@@ -455,6 +455,25 @@ SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.j
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
 
 Package: com.lint.undelete
+Version: 1.3.3
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.3.3_iphoneos-arm.deb
+Size: 342732
+Installed-Size: 1296
+MD5sum: 5a1e42a79eb260e6dcd011c2b136ae82
+SHA1: 29d9ca6cbbeed375b7df6298353e14d5c62bef8b
+SHA256: d8256ce9b1ecb5b20bceeb4c87739a599aa4a11173f152e0bea28679d75fc8c0
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.undelete
 Version: 1.0.2
 Section: Tweaks
 Maintainer: lint
