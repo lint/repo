@@ -148,11 +148,7 @@ Open the "more" menu on comments, tap the new button that says "tf did that say?
 
 &lt;br/&gt;&lt;br/&gt; 
 
-Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;pushshift&lt;/a&gt;.
-
-&lt;br/&gt;&lt;br/&gt; 
-
-A12 is supported.</string>
+Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;pushshift&lt;/a&gt;.</string>
 			<key>last_updated</key>
 			<string>2020-06-06</string>
 			<key>max_ios</key>
