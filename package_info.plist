@@ -126,6 +126,10 @@ Add support for Reddit 2020.0.0</string>
 &amp;bull; Fix small Reddit localization bug &lt;br&gt;
 &amp;bull; Improved preferences &lt;br&gt;
 </string>
+				<key>1.3.4</key>
+				<string>
+&amp;bull; Add AlienBlueHD (iPad) support &lt;br&gt;
+&amp;bull; In all supported apps, fix eye not showing on deleted comments/posts when not using English in Reddit's preferences</string>
 			</dict>
 			<key>description</key>
 			<string>See what those pesky "[deleted]" comments and posts were without leaving Reddit! 
@@ -150,7 +154,7 @@ Open the "more" menu on comments, tap the new button that says "tf did that say?
 
 Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;pushshift&lt;/a&gt;.</string>
 			<key>last_updated</key>
-			<string>2020-06-06</string>
+			<string>2020-06-09</string>
 			<key>max_ios</key>
 			<string>13</string>
 			<key>min_ios</key>
@@ -160,7 +164,7 @@ Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;push
 			<key>title</key>
 			<string>undelete</string>
 			<key>version</key>
-			<string>1.3.3</string>
+			<string>1.3.4</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>
