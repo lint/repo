@@ -458,6 +458,34 @@ These include awarded comment highlights, the coin button in the search bar, the
 			<key>version</key>
 			<string>1.1.2</string>
 		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.dontsavemessagephotos</string>
+			<key>description</key>
+			<string>Prevents photos/videos taken in Messages from saving to the camera roll. No settings to configure.
+
+&lt;br&gt;
+
+Tested on iOS 12-13.</string>
+			<key>last_updated</key>
+			<string>2020-07-02</string>
+			<key>title</key>
+			<string>Don'tSaveMessagePhotos</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.notesquicksearch</string>
+			<key>description</key>
+			<string>Adds a magnifying glass icon to the nav bar in notes to allow for quick access to the search feature. </string>
+			<key>last_updated</key>
+			<string>2020-07-03</string>
+			<key>title</key>
+			<string>NotesQuickSearch</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
 	</array>
 	<key>Template</key>
 	<dict>

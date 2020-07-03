@@ -150,6 +150,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.contacttime
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.contacttime/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.contacttime/sileo.json
 
+Package: com.lint.dontsavemessagephotos
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.dontsavemessagephotos_1.0.0_iphoneos-arm.deb
+Size: 3606
+Installed-Size: 196
+MD5sum: 1ae8391e7da36c160a71b2e6d3461404
+SHA1: afa477d0f32c96cb5896464ea14b34664144a628
+SHA256: 9dbff878fb866cec4c20ee74d7c27cdfd1478beb619d7b2ff27febc9de640d68
+Description: Prevents photos/videos taken in Messages from saving to camera roll.
+Name: Don'tSaveMessagePhotos
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.dontsavemessagephotos
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.dontsavemessagephotos/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.dontsavemessagephotos/sileo.json
+
 Package: com.lint.newawardsforoldreddit
 Version: 1.2.0
 Section: Tweaks
@@ -168,6 +187,25 @@ Author: lint
 Depiction: https://lint.github.io/repo/depictions/?p=com.lint.newawardsforoldreddit
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.newawardsforoldreddit/sileo.json
+
+Package: com.lint.notesquicksearch
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.notesquicksearch_1.0.0_iphoneos-arm.deb
+Size: 12206
+Installed-Size: 212
+MD5sum: 43726f35fb28ba43f70c080dd326007d
+SHA1: a8634a5c10a53712365e9a9fbc48dd328df97012
+SHA256: 3d8d519cfbeece4c3b7571f6b57df9df59a2ab59f8c5a8e704198da8435665a1
+Description: Puts a button on the nav bar to allow for quick searching in notes.
+Name: NotesQuickSearch
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.notesquicksearch
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.notesquicksearch/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.notesquicksearch/sileo.json
 
 Package: com.lint.ntarrows
 Version: 1.0.0

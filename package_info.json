@@ -218,6 +218,20 @@
             "last_updated": "2020-06-03", 
             "title": "StopItWithTheCoins", 
             "version": "1.1.2"
+        }, 
+        {
+            "bundleid": "com.lint.dontsavemessagephotos", 
+            "description": "Prevents photos/videos taken in Messages from saving to the camera roll. No settings to configure.\n\n<br>\n\nTested on iOS 12-13.", 
+            "last_updated": "2020-07-02", 
+            "title": "Don'tSaveMessagePhotos", 
+            "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.notesquicksearch", 
+            "description": "Adds a magnifying glass icon to the nav bar in notes to allow for quick access to the search feature. ", 
+            "last_updated": "2020-07-03", 
+            "title": "NotesQuickSearch", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {
