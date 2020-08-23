@@ -130,6 +130,8 @@ Add support for Reddit 2020.0.0</string>
 				<string>
 &amp;bull; Add AlienBlueHD (iPad) support &lt;br&gt;
 &amp;bull; In all supported apps, fix eye not showing on deleted comments/posts when not using English in Reddit's preferences</string>
+				<key>1.3.5</key>
+				<string>Add support for Reddit 2020.29.0 and up</string>
 			</dict>
 			<key>description</key>
 			<string>See what those pesky "[deleted]" comments and posts were without leaving Reddit! 
@@ -154,7 +156,7 @@ Open the "more" menu on comments, tap the new button that says "tf did that say?
 
 Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;pushshift&lt;/a&gt;.</string>
 			<key>last_updated</key>
-			<string>2020-06-09</string>
+			<string>2020-08-23</string>
 			<key>max_ios</key>
 			<string>13</string>
 			<key>min_ios</key>
@@ -164,7 +166,7 @@ Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;push
 			<key>title</key>
 			<string>undelete</string>
 			<key>version</key>
-			<string>1.3.4</string>
+			<string>1.3.5</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>
@@ -446,17 +448,19 @@ Design made to the specifications of u/completebunk.</string>
 				<string>Fix preference bundle error</string>
 				<key>1.1.2</key>
 				<string>Add Reddit 2020.20.0 support</string>
+				<key>1.1.3</key>
+				<string>Add Reddit 2020.29.0 support</string>
 			</dict>
 			<key>description</key>
 			<string>Hides several coin promotions and usages in the official Reddit app. 
 &lt;br&gt;
 These include awarded comment highlights, the coin button in the search bar, the gilding button on posts and comments, and premium/get coin options in the pullover menu.</string>
 			<key>last_updated</key>
-			<string>2020-06-03</string>
+			<string>2020-08-23</string>
 			<key>title</key>
 			<string>StopItWithTheCoins</string>
 			<key>version</key>
-			<string>1.1.2</string>
+			<string>1.1.3</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>

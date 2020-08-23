@@ -321,6 +321,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.stopitwiththecoins
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.stopitwiththecoins/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.stopitwiththecoins/sileo.json
 
+Package: com.lint.stopitwiththecoins
+Version: 1.1.3
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.stopitwiththecoins_1.1.3_iphoneos-arm.deb
+Size: 28708
+Installed-Size: 424
+MD5sum: e949ece08a68894f6ecdea91ed6534a6
+SHA1: 9c89922d51b08df8b667d19c7cdbb119704fff9f
+SHA256: e0f38a86f63d31bc24b2e11efc661016f16440f1d26a830c0ed3b9abb745951d
+Description: Hides several coin promotions and usages in the official Reddit app.
+Name: StopItWithTheCoins
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.stopitwiththecoins
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.stopitwiththecoins/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.stopitwiththecoins/sileo.json
+
 Package: com.lint.tabtracker
 Version: 1.0
 Section: Tweaks
@@ -352,6 +371,25 @@ Installed-Size: 284
 MD5sum: 584b794ab8f1d48a025e1db644b2ba05
 SHA1: b2dbd904762b98ff0f9f618709b1c6f09b5ced63
 SHA256: a4630c1ad5b7d234db5d8f8377908806b4369c6d49202538aba9405491a6c4a8
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.undelete
+Version: 1.3.5
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.3.5_iphoneos-arm.deb
+Size: 343446
+Installed-Size: 1296
+MD5sum: 6ebb23b10cf491fb3e70469f561094fe
+SHA1: ed7e849d5fea43176682c7e4e7455532bd0dfa9d
+SHA256: 415afcc64898dee6bada334acfd82f5fa8e23c7561eb66d5d0ea87d9fad567c6
 Description: See "[deleted]" comments and posts without leaving Reddit!
 Name: TFDidThatSay?
 Author: lint <apieceoflint@protonmail.com>
