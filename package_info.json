@@ -51,15 +51,16 @@
                 "1.3.1": "Fixed Apollo crash\n\nAdded option for Apollo to have button on the comment rather than in the menu", 
                 "1.3.2": "Use SF Symbols for Apollo if possible\n<br/>\nAdd support for Reddit 2020.0.0", 
                 "1.3.3": "\n\n&bull; Added Apollo 1.8 support <br>\n&bull; Added Apollo context menu support for iOS 13 <br>\n&bull; Fix Apollo eye icon for iOS 13 <br>\n&bull; Fix Reddit incorrect text color bug <br>\n&bull; Fix small Reddit localization bug <br>\n&bull; Improved preferences <br>\n", 
-                "1.3.4": "\n&bull; Add AlienBlueHD (iPad) support <br>\n&bull; In all supported apps, fix eye not showing on deleted comments/posts when not using English in Reddit's preferences"
+                "1.3.4": "\n&bull; Add AlienBlueHD (iPad) support <br>\n&bull; In all supported apps, fix eye not showing on deleted comments/posts when not using English in Reddit's preferences", 
+                "1.3.5": "Add support for Reddit 2020.29.0 and up"
             }, 
             "description": "See what those pesky \"[deleted]\" comments and posts were without leaving Reddit! \n\n<br/><br/> \n\nFor Reddit: \nTo use, tap the \"...\" button on comments or a self text post, and then tap on the new option called \"TF did that say?\". The comment/post will then be replaced with what it said when it was archived.\n\n<br/>\n\nFor Apollo:\nTap the small eye icon added to comments and self text posts.\n\n<br/>\n\nFor Narwhal: \nOpen the \"more\" menu on comments, tap the new button that says \"tf did that say?\" to activate. On self text posts, tap the \"...\" button and do the same thing.\n\n\n<br/><br/> \n\nComments and posts are retrieved using <a href=\"https://pushshift.io\">pushshift</a>.", 
-            "last_updated": "2020-06-09", 
+            "last_updated": "2020-08-23", 
             "max_ios": "13", 
             "min_ios": "10", 
             "source": "https://github.com/lint/TFDidThatSay", 
             "title": "undelete", 
-            "version": "1.3.4"
+            "version": "1.3.5"
         }, 
         {
             "bundleid": "com.lint.videoflashindicator", 
@@ -212,12 +213,13 @@
                 "1.0.0": "Initial release", 
                 "1.1.0": "Added preferences, and options to hide coins on the pullover menu and gilding buttons on comments and posts.", 
                 "1.1.1": "Fix preference bundle error", 
-                "1.1.2": "Add Reddit 2020.20.0 support"
+                "1.1.2": "Add Reddit 2020.20.0 support", 
+                "1.1.3": "Add Reddit 2020.29.0 support"
             }, 
             "description": "Hides several coin promotions and usages in the official Reddit app. \n<br>\nThese include awarded comment highlights, the coin button in the search bar, the gilding button on posts and comments, and premium/get coin options in the pullover menu.", 
-            "last_updated": "2020-06-03", 
+            "last_updated": "2020-08-23", 
             "title": "StopItWithTheCoins", 
-            "version": "1.1.2"
+            "version": "1.1.3"
         }, 
         {
             "bundleid": "com.lint.dontsavemessagephotos", 
