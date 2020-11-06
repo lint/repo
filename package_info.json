@@ -52,15 +52,16 @@
                 "1.3.2": "Use SF Symbols for Apollo if possible\n<br/>\nAdd support for Reddit 2020.0.0", 
                 "1.3.3": "\n\n&bull; Added Apollo 1.8 support <br>\n&bull; Added Apollo context menu support for iOS 13 <br>\n&bull; Fix Apollo eye icon for iOS 13 <br>\n&bull; Fix Reddit incorrect text color bug <br>\n&bull; Fix small Reddit localization bug <br>\n&bull; Improved preferences <br>\n", 
                 "1.3.4": "\n&bull; Add AlienBlueHD (iPad) support <br>\n&bull; In all supported apps, fix eye not showing on deleted comments/posts when not using English in Reddit's preferences", 
-                "1.3.5": "Add support for Reddit 2020.29.0 and up"
+                "1.3.5": "Add support for Reddit 2020.29.0 and up", 
+                "1.4.0": "Added Reddit 2020.40.0 and 2020.41.0 support\n\nAdded button in prefs to check latest archived comment / post\n\nImproved error messages  "
             }, 
             "description": "See what those pesky \"[deleted]\" comments and posts were without leaving Reddit! \n\n<br/><br/> \n\nFor Reddit: \nTo use, tap the \"...\" button on comments or a self text post, and then tap on the new option called \"TF did that say?\". The comment/post will then be replaced with what it said when it was archived.\n\n<br/>\n\nFor Apollo:\nTap the small eye icon added to comments and self text posts.\n\n<br/>\n\nFor Narwhal: \nOpen the \"more\" menu on comments, tap the new button that says \"tf did that say?\" to activate. On self text posts, tap the \"...\" button and do the same thing.\n\n\n<br/><br/> \n\nComments and posts are retrieved using <a href=\"https://pushshift.io\">pushshift</a>.", 
-            "last_updated": "2020-08-23", 
-            "max_ios": "13", 
+            "last_updated": "2020-11-06", 
+            "max_ios": "14", 
             "min_ios": "10", 
             "source": "https://github.com/lint/TFDidThatSay", 
-            "title": "undelete", 
-            "version": "1.3.5"
+            "title": "TFDidThatSay", 
+            "version": "1.4.0"
         }, 
         {
             "bundleid": "com.lint.videoflashindicator", 
@@ -233,6 +234,13 @@
             "description": "Adds a magnifying glass icon to the nav bar in notes to allow for quick access to the search feature. ", 
             "last_updated": "2020-07-03", 
             "title": "NotesQuickSearch", 
+            "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.chaoextractor", 
+            "description": "Adds two buttons to ChaoTimer to extract session/all solve times to file.", 
+            "last_updated": "2020-11-06", 
+            "title": "ChaoExtractor", 
             "version": "1.0.0"
         }
     ], 

@@ -132,6 +132,12 @@ Add support for Reddit 2020.0.0</string>
 &amp;bull; In all supported apps, fix eye not showing on deleted comments/posts when not using English in Reddit's preferences</string>
 				<key>1.3.5</key>
 				<string>Add support for Reddit 2020.29.0 and up</string>
+				<key>1.4.0</key>
+				<string>Added Reddit 2020.40.0 and 2020.41.0 support
+
+Added button in prefs to check latest archived comment / post
+
+Improved error messages  </string>
 			</dict>
 			<key>description</key>
 			<string>See what those pesky "[deleted]" comments and posts were without leaving Reddit! 
@@ -156,17 +162,17 @@ Open the "more" menu on comments, tap the new button that says "tf did that say?
 
 Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;pushshift&lt;/a&gt;.</string>
 			<key>last_updated</key>
-			<string>2020-08-23</string>
+			<string>2020-11-06</string>
 			<key>max_ios</key>
-			<string>13</string>
+			<string>14</string>
 			<key>min_ios</key>
 			<string>10</string>
 			<key>source</key>
 			<string>https://github.com/lint/TFDidThatSay</string>
 			<key>title</key>
-			<string>undelete</string>
+			<string>TFDidThatSay</string>
 			<key>version</key>
-			<string>1.3.5</string>
+			<string>1.4.0</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>
@@ -487,6 +493,18 @@ Tested on iOS 12-13.</string>
 			<string>2020-07-03</string>
 			<key>title</key>
 			<string>NotesQuickSearch</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.chaoextractor</string>
+			<key>description</key>
+			<string>Adds two buttons to ChaoTimer to extract session/all solve times to file.</string>
+			<key>last_updated</key>
+			<string>2020-11-06</string>
+			<key>title</key>
+			<string>ChaoExtractor</string>
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>

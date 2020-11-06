@@ -36,6 +36,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.autoopencameraroll
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.autoopencameraroll/sileo.json
 
+Package: com.lint.chaoextractor
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.chaoextractor_1.0.0_iphoneos-arm.deb
+Size: 13692
+Installed-Size: 196
+MD5sum: 4351803a676746fb561e8eb4d58d4afe
+SHA1: ca5d0c46d07fd3509674d34c7a5afb2db50389d1
+SHA256: 97f50bfae6a2a1f0f95606ada248e91945e78a25a26b50edccb6b98768985c27
+Description: Extracts ChaoTimer solve times to a text file.
+Name: ChaoExtractor
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.chaoextractor
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.chaoextractor/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.chaoextractor/sileo.json
+
 Package: com.lint.colorable
 Version: 1.1.2
 Section: Tweaks
@@ -599,6 +618,25 @@ Installed-Size: 344
 MD5sum: 3418f9584f2c81752c5061ef1ffee585
 SHA1: 97cad75848165fc21e4aae1a98341132ecc90b50
 SHA256: f30f9416fdc2bc4a30b4779d3214027e04a8c83a87c1528b5cfd5c4eb31de026
+Description: See "[deleted]" comments and posts without leaving Reddit!
+Name: TFDidThatSay?
+Author: lint <apieceoflint@protonmail.com>
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.undelete
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.undelete/sileo.json
+
+Package: com.lint.undelete
+Version: 1.4.0
+Section: Tweaks
+Maintainer: lint <apieceoflint@protonmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.undelete_1.4.0_iphoneos-arm.deb
+Size: 350888
+Installed-Size: 1296
+MD5sum: 10f3ae17046c46e6b988780361647910
+SHA1: c9a62439b059293e23fd3d6647ab8a6fdeda4476
+SHA256: 8954063d67a1b3ce8174837c999041356b86e9f04735d6965fe17c771db08a6c
 Description: See "[deleted]" comments and posts without leaving Reddit!
 Name: TFDidThatSay?
 Author: lint <apieceoflint@protonmail.com>
