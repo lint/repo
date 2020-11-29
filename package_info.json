@@ -242,6 +242,13 @@
             "last_updated": "2020-11-06", 
             "title": "ChaoExtractor", 
             "version": "1.0.0"
+        }, 
+        {
+            "bundleid": "com.lint.fixredditalphabetbar", 
+            "description": "Fixes the bug preventing dragging on the alphabet bar in Reddit. This bug is present in version 2020.24.0 onwards.", 
+            "last_updated": "2020-11-28", 
+            "title": "FixRedditAlphabetBar", 
+            "version": "1.0.0"
         }
     ], 
     "Template": {
