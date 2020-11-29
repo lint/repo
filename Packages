@@ -188,6 +188,25 @@ Depiction: https://lint.github.io/repo/depictions/?p=com.lint.dontsavemessagepho
 SileoDepiction: https://lint.github.io/repo/depictions/com.lint.dontsavemessagephotos/sileo.json
 ModernDepiction: https://lint.github.io/repo/depictions/com.lint.dontsavemessagephotos/sileo.json
 
+Package: com.lint.fixredditalphabetbar
+Version: 1.0.0
+Section: Tweaks
+Maintainer: lint
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: debs/com.lint.fixredditalphabetbar_1.0.0_iphoneos-arm.deb
+Size: 4210
+Installed-Size: 196
+MD5sum: f5a9f58f1cd154b1f0f8ff2e13736a5f
+SHA1: 6276f22e962ed84dba6a1861ac324f17311dfe81
+SHA256: 708be968d409e6bfc5e7d6fa11988bec139bd068a5a76775639655b710638909
+Description: Fixes the bug preventing scrolling on the alphabet bar in Reddit.
+Name: FixRedditAlphabetBar
+Author: lint
+Depiction: https://lint.github.io/repo/depictions/?p=com.lint.fixredditalphabetbar
+SileoDepiction: https://lint.github.io/repo/depictions/com.lint.fixredditalphabetbar/sileo.json
+ModernDepiction: https://lint.github.io/repo/depictions/com.lint.fixredditalphabetbar/sileo.json
+
 Package: com.lint.newawardsforoldreddit
 Version: 1.2.0
 Section: Tweaks

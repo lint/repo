@@ -508,6 +508,18 @@ Tested on iOS 12-13.</string>
 			<key>version</key>
 			<string>1.0.0</string>
 		</dict>
+		<dict>
+			<key>bundleid</key>
+			<string>com.lint.fixredditalphabetbar</string>
+			<key>description</key>
+			<string>Fixes the bug preventing dragging on the alphabet bar in Reddit. This bug is present in version 2020.24.0 onwards.</string>
+			<key>last_updated</key>
+			<string>2020-11-28</string>
+			<key>title</key>
+			<string>FixRedditAlphabetBar</string>
+			<key>version</key>
+			<string>1.0.0</string>
+		</dict>
 	</array>
 	<key>Template</key>
 	<dict>
