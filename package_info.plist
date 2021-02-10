@@ -138,6 +138,12 @@ Add support for Reddit 2020.0.0</string>
 Added button in prefs to check latest archived comment / post
 
 Improved error messages  </string>
+				<key>1.4.1</key>
+				<string>&amp;bull; Added Reddit v2021 support &lt;br&gt;
+&amp;bull; Fixed a bug in Reddit where the author would not update &lt;br&gt;
+&amp;bull; Fixed Apollo undeleted body color always being black &lt;br&gt;
+&amp;bull; Fixed a bug in Apollo where the "TF Did That Say?" cell sometimes appears like the moderator cell &lt;br&gt;
+&amp;bull; Slightly improves error messages</string>
 			</dict>
 			<key>description</key>
 			<string>See what those pesky "[deleted]" comments and posts were without leaving Reddit! 
@@ -162,7 +168,7 @@ Open the "more" menu on comments, tap the new button that says "tf did that say?
 
 Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;pushshift&lt;/a&gt;.</string>
 			<key>last_updated</key>
-			<string>2020-11-06</string>
+			<string>2021-02-10</string>
 			<key>max_ios</key>
 			<string>14</string>
 			<key>min_ios</key>
@@ -172,7 +178,7 @@ Comments and posts are retrieved using &lt;a href="https://pushshift.io"&gt;push
 			<key>title</key>
 			<string>TFDidThatSay</string>
 			<key>version</key>
-			<string>1.4.0</string>
+			<string>1.4.1</string>
 		</dict>
 		<dict>
 			<key>bundleid</key>
